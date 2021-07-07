@@ -17,7 +17,7 @@ Questo software permette di prepararsi all'esame teorico per il conseguimento de
 
 * Per prima cosa, clonare il repository:
 ```
-git clone ...
+git clone https://github.com/auino/quiz-patente-nautica.git
 ```
 * Accedere alla directory appena creata:
 ```
