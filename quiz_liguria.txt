@@ -4433,7 +4433,7 @@ RispostaCorretta: 3
 Numero: 555
 Domanda: Riguardo alla classica ancora ammiragliato e alle sue componenti si può dire che:
 Immagine: 
-Risposta1: ? a) la patta è l'estremità inferiore del fuso.
+Risposta1: la patta è l'estremità inferiore del fuso.
 Risposta2: il ceppo è il corpo centrale dell'ancora.
 Risposta3: nessuna delle risposte precedenti è esatta.
 RispostaCorretta: 3

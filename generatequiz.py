@@ -89,7 +89,7 @@ def filterquizbyimage(l):
 
 def generaterandomexam(l):
 	r = []
-	random.seed(time.time())
+	random.seed(int(time.time()))
 	for e in EXAM_LIGURIA:
 		block_list = l[e.get('from')-1:e.get('to')]
 		random.shuffle(block_list)
