@@ -6300,7 +6300,7 @@ Immagine:
 Risposta1: su tabelle in dotazione alle imbarcazioni.
 Risposta2: sulle carte nautiche.
 Risposta3: sul portolano e sull'elenco fari e fanali.
-RispostaCorretta: 0
+RispostaCorretta: 1
 
 Numero: 789
 Domanda: Qual è la funzione del liquido presente all'interno del mortaio di una bussola magnetica?
