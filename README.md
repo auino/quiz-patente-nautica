@@ -85,16 +85,20 @@ eventualmente, un poco per volta, come nell'esempio a seguire (solo i primi `100
 python3 generatequiz.py --range 1-100
 ```
 salvando tutte le risposte errate fornite dal programma.
+
 2. Ripetere eventuali errori:
 ```
 python3 generatequiz.py --select 1,10,100,1000
 ```
 inserendo la lista delle risposte errate.
+
 3. Ripetere eventualmente il punto precedente finché non si sostengano più errori.
+
 4. Fare molte simulazioni di esame:
 ```
 python3 generatequiz.py --exam
 ```
+
 5. Eventualmente, ripetere una simulazione specifica:
 ```
 python3 generatequiz.py --repeatexam 12345
