@@ -23,10 +23,11 @@ git clone https://github.com/auino/quiz-patente-nautica.git
 ```
 cd quiz-patente-nautica
 ```
-* Installare le dipendenze:
+* Installare le dipendenze (per dispositivi dotati di processore Apple M1, procedere con una [installazione manuale di matplotlib](https://stackoverflow.com/questions/66122146/pip-install-matplotlib-fails-on-m1-mac), dunque installare manualmente le altre dipendenze dal file `requirements.txt`):
 ```
 pip3 install -r requirements.txt
 ```
+
 
 ### Esecuzione ###
 
