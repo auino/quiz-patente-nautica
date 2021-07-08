@@ -115,8 +115,9 @@ def shuffle_answers(d):
 
 def showquiz(l, shouldshuffle):
 	screen_clear()
-	correct = 0
+	correctnumbers = []
 	wrongnumbers = []
+	ignorednumbers = []
 	i = 1
 	for q in l:
 		if shouldshuffle: q = shuffle_answers(q)
@@ -126,19 +127,25 @@ def showquiz(l, shouldshuffle):
 			imgplot = plt.imshow(img)
 			plt.show()
 		r = input('Opzione scelta: ')
-		if atonumber(r) == int(q.get('rispostacorretta')):
-			print(colored('Corretto!', 'green'))
-			correct += 1
+		if len(r) == 0:
+			print(colored('Risposta ignorata.', 'grey'))
+			ignorednumbers.append(q.get('numero'))
 		else:
-			print(colored('Errato. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'red'))
-			wrongnumbers.append(q.get('numero'))
+			if atonumber(r[0]) == int(q.get('rispostacorretta')):
+				print(colored('Corretto!', 'green'))
+				correctnumbers.append(q.get('numero'))
+			else:
+				print(colored('Errato. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'red'))
+				wrongnumbers.append(q.get('numero'))
 		print('')
 		if CLEAR_SCREEN:
 			time.sleep(2)
 			screen_clear()
 		i += 1
-	print('Risposte corrette: {}/{}'.format(correct, len(l)))
-	if len(wrongnumbers) > 0: print('Quiz errati: {}'.format(','.join(wrongnumbers)))
+	if (len(l) - len(ignorednumbers)) > 0: print('Risultato del quiz: {} ({}/{})'.format(('superato' if (len(correctnumbers)/(len(l) - len(ignorednumbers)) >= 17/20) else 'non superato'), len(correctnumbers), len(l)))
+	if len(correctnumbers) > 0: print('Numero di quiz delle risposte corrette: {}'.format(','.join(correctnumbers)))
+	if len(ignorednumbers) > 0: print('Numero di quiz delle risposte ignorate: {}'.format(','.join(ignorednumbers)))
+	if len(wrongnumbers) > 0: print('Numero di quiz delle risposte errate: {}'.format(','.join(wrongnumbers)))
 
 # Main program
 
