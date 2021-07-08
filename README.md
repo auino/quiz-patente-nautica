@@ -10,8 +10,10 @@ Questo software permette di prepararsi all'esame teorico per il conseguimento de
 
 * Dettagli sugli errori fatti, con output colorato
 * Supporto a quiz contenenti immagini
-* Possibilità di simulare un possibile esame
+* Possibilità di simulare un possibile esame, eventualmente ripetendo una simulazione specifica
 * Possibilità di filtrare i quiz (in base alla numerazione; in base ad una query di ricerca, sia sulla domanda che sulle risposte; solo quiz contenenti immagini)
+* Possibilità di ignorare un quiz (premendo il tasto invio)
+* Riassunto dettagliato sull'andamento dei quiz, per ogni esecuzione, in termini di risposte corrette, ignorate ed errate, per eventuali raffinamenti della propria preparazione
 
 ### Installazione ###
 
