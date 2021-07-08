@@ -60,9 +60,42 @@ python3 generatequiz.py --onlyimages
 ```
 python3 generatequiz.py --shuffle
 ```
-* Fare una simulazione di esame (funzionalità utile per una preparazione a ridosso dell'esame finale)
+* Fare una simulazione di esame (funzionalità utile per una preparazione a ridosso dell'esame finale; è eventualmente possibile ottenere l'identificativo dell'esame scorrendo la schermata sopra la prima domanda)
 ```
 python3 generatequiz.py --exam
+```
+* Ripetere una simulazione di esame (sulla base di un identificativo di esame specifico)
+```
+python3 generatequiz.py --repeatexam 12345
+```
+
+Al termine dell'esecuzione, i numeri delle eventuali risposte errate verranno mostrati in output.
+
+### Suggerimenti per l'utilizzo ###
+
+Una volta studiata in modo approfondito la parte teorica, si suggerisce di procedere come segue:
+1. Rispondere tutti i quiz
+```
+python3 generatequiz.py
+```
+eventualmente, un poco per volta, come nell'esempio a seguire (solo i primi `100` quiz):
+```
+python3 generatequiz.py --range 1-100
+```
+salvando tutte le risposte errate fornite dal programma.
+2. Ripetere eventuali errori:
+```
+python3 generatequiz.py --select 1,10,100,1000
+```
+inserendo la lista delle risposte errate.
+3. Ripetere eventualmente il punto precedente finché non si sostengano più errori.
+4. Fare molte simulazioni di esame:
+```
+python3 generatequiz.py --exam
+```
+5. Eventualmente, ripetere una simulazione specifica:
+```
+python3 generatequiz.py --repeatexam 12345
 ```
 
 ### Estensioni ###

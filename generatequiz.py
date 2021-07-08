@@ -88,9 +88,11 @@ def filterquizbyimage(l):
 		if len(e.get('immagine')) > 0: r.append(e)
 	return r
 
-def generaterandomexam(l):
+def generaterandomexam(l, seed=None):
 	r = []
-	random.seed(int(time.time()))
+	if seed is None: seed = int(time.time())
+	print("Identificativo utilizzato per la simulazione di esame: {}".format(seed))
+	random.seed(seed)
 	for e in EXAM_LIGURIA:
 		block_list = l[e.get('from')-1:e.get('to')]
 		random.shuffle(block_list)
@@ -114,6 +116,7 @@ def shuffle_answers(d):
 def showquiz(l, shouldshuffle):
 	screen_clear()
 	correct = 0
+	wrongnumbers = []
 	i = 1
 	for q in l:
 		if shouldshuffle: q = shuffle_answers(q)
@@ -126,13 +129,16 @@ def showquiz(l, shouldshuffle):
 		if atonumber(r) == int(q.get('rispostacorretta')):
 			print(colored('Corretto!', 'green'))
 			correct += 1
-		else: print(colored('Errato. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'red'))
+		else:
+			print(colored('Errato. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'red'))
+			wrongnumbers.append(q.get('numero'))
 		print('')
 		if CLEAR_SCREEN:
 			time.sleep(2)
 			screen_clear()
 		i += 1
 	print('Risposte corrette: {}/{}'.format(correct, len(l)))
+	if len(wrongnumbers) > 0: print('Quiz errati: {}'.format(','.join(wrongnumbers)))
 
 # Main program
 
@@ -152,6 +158,8 @@ parser.add_argument('--shuffle', action='store_true', default=False,
 	help='per mischiare casualmente le risposte')
 parser.add_argument('--exam', action='store_true', default=False,
 	help='per generare un possibile testo di esame')
+parser.add_argument('--repeatexam', type=str,
+	help='inserendo l\'identificativo utilizzato per una simulazione di esame precedentemente fatta, sarà possibile ripeterla (es. "12345")')
 
 args = parser.parse_args()
 
@@ -168,6 +176,7 @@ if args.search != None: quiz = filterquizbyquestion(quiz, args.search)
 if args.searchanswer != None: quiz = filterquizbyanswer(quiz, args.searchanswer)
 if args.onlyimages: quiz = filterquizbyimage(quiz)
 if args.exam: quiz = generaterandomexam(quiz)
+if args.repeatexam != None: quiz = generaterandomexam(quiz, args.repeatexam)
 
 # sorting the list
 quiz = sorted(quiz, key=lambda x: int(x.get('numero')))
