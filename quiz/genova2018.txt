@@ -8271,7 +8271,7 @@ Risposta3: la portata nominale.
 RispostaCorretta: 3
 
 Numero: 1035
-Domanda: Di un faro si legge "
+Domanda: Di un faro si legge << 0.5 (in grassetto) - 1 - 0.5 (in grassetto) - 2 >>
 Immagine: 
 Risposta1: vi sono due fasi di ecclissi ciascuna della durata di 0,5 secondi. 
 Risposta2: vi sono due fasi di luce di cui la prima dura 1 secondo e la seconda ha la durata di 2 secondi. 
@@ -8279,7 +8279,7 @@ Risposta3: il "periodo" ha una durata di 4 secondi.
 RispostaCorretta: 3
 
 Numero: 1036
-Domanda: Di un faro si legge "
+Domanda: Di un faro si legge << 1.5 (in grassetto) - 2 - 1.5 (in grassetto) - 2 >>
 Immagine: 
 Risposta1: vi sono due fasi di ecclissi della durata complessiva di 3 secondi. 
 Risposta2: vi sono due fasi di luce, ciascuna della durata di 2 secondi. 
