@@ -96,7 +96,7 @@ RispostaCorretta: 1
 
 Numero: 13
 Domanda: In figura è riportata la struttura di un'unità. Con quale lettera, tra quelle proposte nelle alternative di risposta, è indicato l'elemento costruttivo denominato "bracciolo"?
-Immagine: img/liguria/B13.jpg
+Immagine: img/genova2015/B13.jpg
 Risposta1: con la lettera A.
 Risposta2: con la lettera B.
 Risposta3: con la lettera C.
@@ -104,7 +104,7 @@ RispostaCorretta: 3
 
 Numero: 14
 Domanda: In figura è riportata la struttura di una unità. Con quale lettera, tra quelle proposte nelle alternative di risposta, è indicato l'elemento costruttivo denominato "fasciame di coperta"?
-Immagine: img/liguria/B14.jpg
+Immagine: img/genova2015/B14.jpg
 Risposta1: con la lettera A.
 Risposta2: con la lettera B.
 Risposta3: con la lettera C.
@@ -128,7 +128,7 @@ RispostaCorretta: 1
 
 Numero: 17
 Domanda: La freccia nell'unità rappresentata in figura indica il
-Immagine: img/liguria/B17.jpg
+Immagine: img/genova2015/B17.jpg
 Risposta1: mascone.
 Risposta2: giardinetto.
 Risposta3: dritto di prora.
@@ -152,7 +152,7 @@ RispostaCorretta: 2
 
 Numero: 20
 Domanda: In figura è riportata la struttura di un'unità. Con quale lettera, tra quelle proposte nelle alternative di risposta, è indicato l'elemento costruttivo denominato "falchetta"?
-Immagine: img/liguria/B20.jpg
+Immagine: img/genova2015/B20.jpg
 Risposta1: con la lettera A.
 Risposta2: con la lettera B.
 Risposta3: con la lettera C.
@@ -192,7 +192,7 @@ RispostaCorretta: 2
 
 Numero: 25
 Domanda: La freccia nell'unità rappresentata in figura indica il:
-Immagine: img/liguria/B25.jpg
+Immagine: img/genova2015/B25.jpg
 Risposta1: giardinetto.
 Risposta2: babordo.
 Risposta3: mascone.
@@ -216,7 +216,7 @@ RispostaCorretta: 1
 
 Numero: 28
 Domanda: In figura è riportata la struttura di un'unità. Con quale lettera, tra quelle proposte nelle alternative di risposta, sono indicate le "serrette"?
-Immagine: img/liguria/B28.jpg
+Immagine: img/genova2015/B28.jpg
 Risposta1: con la lettera A.
 Risposta2: con la lettera B.
 Risposta3: con la lettera C.
@@ -240,7 +240,7 @@ RispostaCorretta: 2
 
 Numero: 31
 Domanda: In figura è riportata la struttura di un'unità. Con quale lettera, tra quelle proposte nelle alternative di risposta, è indicato il baglio?
-Immagine: img/liguria/B31.jpg
+Immagine: img/genova2015/B31.jpg
 Risposta1: con la lettera A.
 Risposta2: con la lettera B.
 Risposta3: con la lettera C.
@@ -2168,7 +2168,7 @@ RispostaCorretta: 3
 
 Numero: 272
 Domanda: Un uomo cade in mare di prora lato dritto, da una imbarcazione che procede a motore, quale delle tre manovre in figura è corretta?
-Immagine: img/liguria/B272.jpg
+Immagine: img/genova2015/B272.jpg
 Risposta1: la manovra in figura A.
 Risposta2: la manovra in figura B.
 Risposta3: la manovra in figura C.
@@ -2432,7 +2432,7 @@ RispostaCorretta: 3
 
 Numero: 305
 Domanda: La figura rappresenta una nave:
-Immagine: img/liguria/B305.jpg
+Immagine: img/genova2015/B305.jpg
 Risposta1: di lunghezza inferiore a 50 metri impegnata con un rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata.
 Risposta2: di lunghezza inferiore a 50 metri impegnata in lavori subacquei, ferma e senza abbrivio.
 Risposta3: di lunghezza inferiore a 50 metri impegnata in lavori subacquei che dirige verso l'osservatore.
@@ -2440,7 +2440,7 @@ RispostaCorretta: 3
 
 Numero: 306
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B306.jpg
+Immagine: img/genova2015/B306.jpg
 Risposta1: che non governa, che mostra la prora con abbrivio.
 Risposta2: che non governa, senza abbrivio.
 Risposta3: da pesca, intenta alla pesca a strascico.
@@ -2480,7 +2480,7 @@ RispostaCorretta: 1
 
 Numero: 311
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B311.jpg
+Immagine: img/genova2015/B311.jpg
 Risposta1: un rimorchiatore di lunghezza inferiore a 50 metri, che mostra la prora, con un rimorchio di lunghezza sino a 200 metri.
 Risposta2: una nave di lunghezza inferiore 50 metri in navigazione, che mostra la prora.
 Risposta3: un rimorchiatore che mostra la prora, che non governa.
@@ -2488,7 +2488,7 @@ RispostaCorretta: 1
 
 Numero: 312
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B312.jpg
+Immagine: img/genova2015/B312.jpg
 Risposta1: dragamine vista di poppa.
 Risposta2: dragamine vista di prora.
 Risposta3: dragamine vista dal lato dritto.
@@ -2512,7 +2512,7 @@ RispostaCorretta: 2
 
 Numero: 315
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B315.jpg
+Immagine: img/genova2015/B315.jpg
 Risposta1: di lunghezza inferiore a 50 metri, che non governa, che dirige a sinistra dell'osservatore.
 Risposta2: di lunghezza inferiore a 50 metri, con manovrabilità limitata, che dirige a sinistra dell'osservatore.
 Risposta3: di lunghezza inferiore a 50 metri, condizionata dalla propria immersione, che dirige a sinistra dell'osservatore.
@@ -2576,7 +2576,7 @@ RispostaCorretta: 2
 
 Numero: 323
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B323.jpg
+Immagine: img/genova2015/B323.jpg
 Risposta1: pilota che mostra la sinistra.
 Risposta2: incagliata.
 Risposta3: che non governa, che mostra la sinistra.
@@ -2584,7 +2584,7 @@ RispostaCorretta: 3
 
 Numero: 324
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B324.jpg
+Immagine: img/genova2015/B324.jpg
 Risposta1: a propulsione meccanica, con fanali facoltativi.
 Risposta2: condizionata dalla propria immersione.
 Risposta3: a vela con fanali facoltativi, che mostra la poppa.
@@ -2600,7 +2600,7 @@ RispostaCorretta: 2
 
 Numero: 326
 Domanda: Siamo in navigazione diurna a bordo della nostra imbarcazione quando rileviamo un'unità che presenta un cono disposto come in figura: cosa indica questo segnale?
-Immagine: img/liguria/B326.jpg
+Immagine: img/genova2015/B326.jpg
 Risposta1: un'unità che procede contemporaneamente a vela e a motore.
 Risposta2: un'unità da diporto intenta alla pesca sportiva.
 Risposta3: un'unità che non governa, con abbrivio.
@@ -2632,7 +2632,7 @@ RispostaCorretta: 3
 
 Numero: 330
 Domanda: Un'unità in navigazione diurna, che mostra tre palloni neri come in figura, è:
-Immagine: img/liguria/B330.jpg
+Immagine: img/genova2015/B330.jpg
 Risposta1: incagliata.
 Risposta2: un dragamine.
 Risposta3: condizionata dalla propria immersione.
@@ -2664,7 +2664,7 @@ RispostaCorretta: 1
 
 Numero: 334
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B334.jpg
+Immagine: img/genova2015/B334.jpg
 Risposta1: da pesca, all'ancora, che sta ritirando a bordo gli attrezzi da pesca non a strascico.
 Risposta2: che non governa, all'ancora.
 Risposta3: con manovrabilità limitata, all'ancora.
@@ -2688,7 +2688,7 @@ RispostaCorretta: 3
 
 Numero: 337
 Domanda: I fanali rappresentati in figura indicano un'unità:
-Immagine: img/liguria/B337.jpg
+Immagine: img/genova2015/B337.jpg
 Risposta1: intenta alla pesca a strascico.
 Risposta2: che non governa, senza abbrivio.
 Risposta3: che non governa, con abbrivio.
@@ -2696,7 +2696,7 @@ RispostaCorretta: 2
 
 Numero: 338
 Domanda: I fanali rappresentati in figura indicano una :
-Immagine: img/liguria/B338.jpg
+Immagine: img/genova2015/B338.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, impegnata in lavori sottomarini, vista di prora, con il lato libero a sinistra della nave stessa.
 Risposta2: nave di lunghezza inferiore a 50 metri, impegnata in lavori sottomarini, vista di prora, con il lato libero alla dritta della nave stessa.
 Risposta3: nave di lunghezza inferiore a 50 metri, impegnata in lavori sottomarini, vista di prora, con il lato libero a dritta dell'osservatore.
@@ -2728,7 +2728,7 @@ RispostaCorretta: 2
 
 Numero: 342
 Domanda: L'unità che di giorno mostra questo segnale è una nave:
-Immagine: img/liguria/B342.jpg
+Immagine: img/genova2015/B342.jpg
 Risposta1: da pesca intenta alla pesca a strascico.
 Risposta2: incagliata.
 Risposta3: condizionata dalla propria immersione.
@@ -2736,7 +2736,7 @@ RispostaCorretta: 3
 
 Numero: 343
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B343.jpg
+Immagine: img/genova2015/B343.jpg
 Risposta1: nave di lunghezza uguale o superiore ai 50 metri, alla fonda vista di fianco.
 Risposta2: nave di lunghezza uguale o superiore ai 50 metri, che non governa vista di fianco.
 Risposta3: nave di lunghezza uguale o superiore ai 50 metri, incagliata vista di fianco.
@@ -2744,7 +2744,7 @@ RispostaCorretta: 3
 
 Numero: 344
 Domanda: In figura sono rappresentate due unità a motore; chi ha il dovere di manovrare?
-Immagine: img/liguria/B344.jpg
+Immagine: img/genova2015/B344.jpg
 Risposta1: l'unità A accosta a dritta e passa a poppa della B.
 Risposta2: l'unita B accosta a dritta e passa a poppa della A.
 Risposta3: accostano a dritta entrambe.
@@ -2752,7 +2752,7 @@ RispostaCorretta: 1
 
 Numero: 345
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B345.jpg
+Immagine: img/genova2015/B345.jpg
 Risposta1: nave a motore di lunghezza uguale o superiore a 50 metri con rimorchio di lunghezza sino a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
 Risposta2: nave impegnata in lavori subacquei che dirige verso l'osservatore.
 Risposta3: nave a motore di lunghezza uguale o superiore a 50 metri con rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
@@ -2760,7 +2760,7 @@ RispostaCorretta: 3
 
 Numero: 346
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B346.jpg
+Immagine: img/genova2015/B346.jpg
 Risposta1: nave a motore di lunghezza uguale o superiore a 50 metri con rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
 Risposta2: nave a motore di lunghezza inferiore a 50 metri con un rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
 Risposta3: nave impegnata in lavori subacquei che dirige verso l'osservatore.
@@ -2776,7 +2776,7 @@ RispostaCorretta: 2
 
 Numero: 348
 Domanda: Il segnale diurno rappresentato in figura indica un'unità:
-Immagine: img/liguria/B348.jpg
+Immagine: img/genova2015/B348.jpg
 Risposta1: con manovrabilità limitata, intenta a dragare o in operazioni subacquee (i due palloni posti lateralmente indicano il fianco ostruito).
 Risposta2: che non governa.
 Risposta3: con manovrabilità limitata, intenta a dragare o in operazioni subacquee (i due doppi coni - o due rombi - posti lateralmente indicano il fianco ostruito).
@@ -2792,7 +2792,7 @@ RispostaCorretta: 1
 
 Numero: 350
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B350.jpg
+Immagine: img/genova2015/B350.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, che spinge avanti una o più navi spinte in avanti, tutte che dirigono verso l'osservatore.
 Risposta2: nave di lunghezza uguale o superiore a 50 metri, che rimorchia a traino un rimorchio di lunghezza sino a 200 metri, che dirige verso l'osservatore.
 Risposta3: nave di lunghezza sino a 50 metri, che rimorchia a traino un rimorchio di lunghezza sino a 200 metri, che dirige verso l'osservatore.
@@ -2824,7 +2824,7 @@ RispostaCorretta: 1
 
 Numero: 354
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B354.jpg
+Immagine: img/genova2015/B354.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, con un rimorchio di lunghezza sino a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata, che dirigono a dritta dell'osservatore.
 Risposta2: nave di lunghezza inferiore a 50 metri, con un rimorchio di lunghezza sino a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata, che dirigono a dritta dell'osservatore.
 Risposta3: nave di lunghezza inferiore a 50 metri, con un rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata, che dirigono a dritta dell'osservatore.
@@ -2864,7 +2864,7 @@ RispostaCorretta: 2
 
 Numero: 359
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B359.jpg
+Immagine: img/genova2015/B359.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, condizionata dalla propria immersione, che dirige a dritta dell'osservatore.
 Risposta2: nave di lunghezza uguale o superiore a 50 metri, con manovrabilità limitata, che dirige a dritta dell'osservatore.
 Risposta3: nave di lunghezza uguale o superiore a 50 metri, che non governa, che dirige dritta dell'osservatore.
@@ -2880,7 +2880,7 @@ RispostaCorretta: 2
 
 Numero: 361
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B361.jpg
+Immagine: img/genova2015/B361.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, che non governa, che dirige verso l'osservatore.
 Risposta2: nave di lunghezza uguale o superiore a 50 metri, condizionata dalla propria immersione, che dirige verso l'osservatore.
 Risposta3: nave di lunghezza uguale o superiore a 50 metri, con manovrabilità limitata, che dirige verso l'osservatore.
@@ -3008,7 +3008,7 @@ RispostaCorretta: 1
 
 Numero: 377
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B377.jpg
+Immagine: img/genova2015/B377.jpg
 Risposta1: nave a motore di lunghezza uguale o superiore a 50 metri con rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
 Risposta2: nave di lunghezza inferiore a 50 metri con un rimorchio di lunghezza non superiore a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
 Risposta3: nave impegnata in lavori subacquei, ferma e senza abbrivio, vista di prora.
@@ -3072,7 +3072,7 @@ RispostaCorretta: 2
 
 Numero: 385
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B385.jpg
+Immagine: img/genova2015/B385.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri con un rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata, che dirigono a dritta dell'osservatore.
 Risposta2: nave di lunghezza inferiore a 50 metri con un rimorchio di lunghezza sino a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata, che dirigono a dritta dell'osservatore.
 Risposta3: nave di lunghezza inferiore a 50 metri con un rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, e nave rimorchiata, che dirigono a dritta dell'osservatore.
@@ -3096,7 +3096,7 @@ RispostaCorretta: 2
 
 Numero: 388
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B388.jpg
+Immagine: img/genova2015/B388.jpg
 Risposta1: nave da pesca di lunghezza uguale o superiore a 50 metri, intenta alla pesca a strascico, che dirige a sinistra dell'osservatore.
 Risposta2: nave da pesca intenta alla pesca non a strascio di lunghezza inferiore a 50 metri.
 Risposta3: dragamine che mostra il fianco sinistro e dirige a sinistra dell'osservatore.
@@ -3136,7 +3136,7 @@ RispostaCorretta: 1
 
 Numero: 393
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B393.jpg
+Immagine: img/genova2015/B393.jpg
 Risposta1: nave da pesca intenta alla pesca a strascico che dirige a dritta dell'osservatore.
 Risposta2: dragamine che mostra il fianco dritto e dirige a dritta dell'osservatore.
 Risposta3: nave da pesca con attrezzi da pesca a strascico, alla fonda.
@@ -3144,7 +3144,7 @@ RispostaCorretta: 2
 
 Numero: 394
 Domanda: Due navi a propulsione meccanica che si trovino in situazione di rotte opposte con rischio di abbordaggio, come si devono comportare?
-Immagine: img/liguria/B394.jpg
+Immagine: img/genova2015/B394.jpg
 Risposta1: ciascuna di esse accosta a dritta.
 Risposta2: l'unità di sinistra accosta a dritta, cedendo il passo all'altra nave.
 Risposta3: accostano dallo stesso lato per compiere un giro intero e ritornare sulla propria rotta.
@@ -3200,7 +3200,7 @@ RispostaCorretta: 1
 
 Numero: 401
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B401.jpg
+Immagine: img/genova2015/B401.jpg
 Risposta1: due navi che non governano affiancate viste di prora.
 Risposta2: due navi condizionate dalla loro immersione, affiancate, viste di prora.
 Risposta3: due navi che effettuano rifornimento in mare, che mantengono abbrivio, viste di prora.
@@ -3232,7 +3232,7 @@ RispostaCorretta: 2
 
 Numero: 405
 Domanda: Il fanale rappresentato in figura indica un'unità:
-Immagine: img/liguria/B405.jpg
+Immagine: img/genova2015/B405.jpg
 Risposta1: intenta alla pesca non a strascico, i cui attrezzi si estendono fuoribordo per meno di 150 metri, che dirige verso l'osservatore.
 Risposta2: intenta alla pesca a strascico, i cui attrezzi si estendono fuoribordo per più di 150 metri, che dirige verso l'osservatore.
 Risposta3: intenta alla pesca non a strascico, i cui attrezzi si estendono fuoribordo per più di 150 metri, che dirige verso l'osservatore.
@@ -3240,7 +3240,7 @@ RispostaCorretta: 3
 
 Numero: 406
 Domanda: Il fanale rappresentato in figura indica un'unità:
-Immagine: img/liguria/B406.jpg
+Immagine: img/genova2015/B406.jpg
 Risposta1: di lunghezza inferiore a 50 metri, intenta alla pesca a strascico, che dirige verso l'osservatore.
 Risposta2: di lunghezza inferiore a 50 metri, intenta alla pesca non a strascico, che dirige verso l'osservatore.
 Risposta3: a vela con i fanali facoltativi d'albero che dirige verso l'osservatore.
@@ -3248,7 +3248,7 @@ RispostaCorretta: 1
 
 Numero: 407
 Domanda: I fanali rappresentati in figura indicano un'unità:
-Immagine: img/liguria/B407.jpg
+Immagine: img/genova2015/B407.jpg
 Risposta1: a motore di lunghezza uguale o superiore a 50 metri che mostra la dritta.
 Risposta2: a motore di lunghezza inferiore a 50 metri che mostra la dritta.
 Risposta3: a vela che mostra la dritta.
@@ -3256,7 +3256,7 @@ RispostaCorretta: 2
 
 Numero: 408
 Domanda: I fanali rappresentati in figura indicano un'unità:
-Immagine: img/liguria/B408.jpg
+Immagine: img/genova2015/B408.jpg
 Risposta1: a motore, di lunghezza inferiore a 50 metri, che mostra la prora.
 Risposta2: a vela, che mostra la prora.
 Risposta3: a motore, di lunghezza inferiore a 20 metri, che mostra la prora.
@@ -3264,7 +3264,7 @@ RispostaCorretta: 3
 
 Numero: 409
 Domanda: I fanali rappresentati in figura indicano un'unità che:
-Immagine: img/liguria/B409.jpg
+Immagine: img/genova2015/B409.jpg
 Risposta1: naviga sbandata e che mostra la prora.
 Risposta2: mostra la prora.
 Risposta3: mostra la poppa.
@@ -3272,7 +3272,7 @@ RispostaCorretta: 3
 
 Numero: 410
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B410.jpg
+Immagine: img/genova2015/B410.jpg
 Risposta1: un peschereccio non a strascico visto di prora.
 Risposta2: una nave che non governa.
 Risposta3: una nave pilota vista di prora.
@@ -3280,7 +3280,7 @@ RispostaCorretta: 3
 
 Numero: 411
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B411.jpg
+Immagine: img/genova2015/B411.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, incagliata, vista di fianco.
 Risposta2: nave di lunghezza uguale o superiore a 50 metri, all'ancora, vista di fianco, che trasporta merci pericolose.
 Risposta3: nave pilota di lunghezza uguale o superiore a 50 metri, all'ancora, vista di fianco.
@@ -3288,7 +3288,7 @@ RispostaCorretta: 3
 
 Numero: 412
 Domanda: I fanali rappresentati in figura a lato indicano:
-Immagine: img/liguria/B412.jpg
+Immagine: img/genova2015/B412.jpg
 Risposta1: una nave di lunghezza inferiore a 50 metri che mostra la dritta.
 Risposta2: una nave incagliata di lunghezza inferiore a 50 metri.
 Risposta3: una nave pilota che dirige a sinistra dell'osservatore.
@@ -3296,7 +3296,7 @@ RispostaCorretta: 3
 
 Numero: 413
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B413.jpg
+Immagine: img/genova2015/B413.jpg
 Risposta1: un idrovolante che mostra la prora.
 Risposta2: è un tipo di segnale non contemplato dal Regolamento per Prevenire gli Abbordi in Mare.
 Risposta3: un'unità a motore di lunghezza inferiore a 50 metri che mostra la prora.
@@ -3304,7 +3304,7 @@ RispostaCorretta: 1
 
 Numero: 414
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B414.jpg
+Immagine: img/genova2015/B414.jpg
 Risposta1: impegnata in lavori subacquei che dirige verso l'osservatore.
 Risposta2: impegnata in lavori subacquei, ferma e senza abbrivio.
 Risposta3: con manovrabilità limitata che dirige verso l'osservatore.
@@ -3312,7 +3312,7 @@ RispostaCorretta: 2
 
 Numero: 415
 Domanda: Il fanale rappresentato in figura indica una:
-Immagine: img/liguria/B415.jpg
+Immagine: img/genova2015/B415.jpg
 Risposta1: nave da pesca non a strascico, senza abbrivio in attesa sul punto.
 Risposta2: nave pilota, senza abbrivio.
 Risposta3: nave a vela che mostra la sinistra.
@@ -3320,7 +3320,7 @@ RispostaCorretta: 3
 
 Numero: 416
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B416.jpg
+Immagine: img/genova2015/B416.jpg
 Risposta1: nave da pesca a strascico, senza abbrivio.
 Risposta2: nave da pesca non a strascico, senza abbrivio.
 Risposta3: nave pilota, senza abbrivio.
@@ -3328,7 +3328,7 @@ RispostaCorretta: 2
 
 Numero: 417
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B417.jpg
+Immagine: img/genova2015/B417.jpg
 Risposta1: una nave con manovrabilità limitata che mostra la prora.
 Risposta2: una nave condizionata dalla propria immersione che mostra la prora.
 Risposta3: un rimorchiatore di lunghezza inferiore a 50 metri, con rimorchio di lunghezza superiore a 200 metri, che mostra la prora.
@@ -3336,7 +3336,7 @@ RispostaCorretta: 3
 
 Numero: 418
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B418.jpg
+Immagine: img/genova2015/B418.jpg
 Risposta1: dragamine che mostra la prora.
 Risposta2: dragamine senza abbrivio.
 Risposta3: dragamine che mostra la poppa.
@@ -3344,7 +3344,7 @@ RispostaCorretta: 1
 
 Numero: 419
 Domanda: I fanali rappresentati in figura a lato indicano:
-Immagine: img/liguria/B419.jpg
+Immagine: img/genova2015/B419.jpg
 Risposta1: un peschereccio, intento alla pesca a strascico, con le reti fuoribordo per meno di 150 metri e che dirige a dritta dell'osservatore.
 Risposta2: un peschereccio, intento alla pesca non a strascico, con le reti fuoribordo per meno di 150 metri e che dirige a dritta dell'osservatore.
 Risposta3: un peschereccio, intento alla pesca non a strascico, con le reti fuoribordo per più di 150 metri e che dirige a dritta dell'osservatore.
@@ -3352,7 +3352,7 @@ RispostaCorretta: 3
 
 Numero: 420
 Domanda: Il fanale rappresentato in figura indica:
-Immagine: img/liguria/B420.jpg
+Immagine: img/genova2015/B420.jpg
 Risposta1: un'unità che non governa che mostra la dritta.
 Risposta2: un'unità da pesca a strascico senza abbrivio.
 Risposta3: un'unità a vela che mostra la dritta.
@@ -3360,7 +3360,7 @@ RispostaCorretta: 3
 
 Numero: 421
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B421.jpg
+Immagine: img/genova2015/B421.jpg
 Risposta1: un rimorchiatore in navigazione, che rimorchia, che mostra la poppa.
 Risposta2: un rimorchiatore in navigazione, che non rimorchia, che mostra la poppa.
 Risposta3: una nave rimorchiata con rimorchio di lunghezza sino a 200 metri.
@@ -3368,7 +3368,7 @@ RispostaCorretta: 1
 
 Numero: 422
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B422.jpg
+Immagine: img/genova2015/B422.jpg
 Risposta1: rimorchiata che mostra la sinistra.
 Risposta2: da pesca a strascico, che mostra la sinistra.
 Risposta3: a vela, con fanali ripetitori, che mostra la sinistra.
@@ -3376,7 +3376,7 @@ RispostaCorretta: 2
 
 Numero: 423
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B423.jpg
+Immagine: img/genova2015/B423.jpg
 Risposta1: una nave condizionata dalla propria immersione, con abbrivio, che mostra la poppa.
 Risposta2: una nave rimorchiata, con rimorchio di lunghezza superiore a 200 metri, che mostra la poppa.
 Risposta3: una nave condizionata dalla propria immersione, alla fonda.
@@ -3384,7 +3384,7 @@ RispostaCorretta: 1
 
 Numero: 424
 Domanda: I fanali rappresentati in figura indicano:
-Immagine: img/liguria/B424.jpg
+Immagine: img/genova2015/B424.jpg
 Risposta1: un rimorchiatore di lunghezza uguale o superiore a 50 metri, con rimorchio di lunghezza superiore a 200 metri, che mostra la prora.
 Risposta2: una nave con manovrabilità limitata, con abbrivio, che mostra la prora.
 Risposta3: una nave condizionata dalla propria immersione, con abbrivio, che mostra la prora.
@@ -3392,7 +3392,7 @@ RispostaCorretta: 2
 
 Numero: 425
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B425.jpg
+Immagine: img/genova2015/B425.jpg
 Risposta1: nave con manovrabilità limitata, che mostra la dritta, ferma e senza abbrivio.
 Risposta2: nave condizionata dalla propria immersione, che mostra la dritta, con abbrivio.
 Risposta3: nave che non governa, che mostra la dritta, con abbrivio.
@@ -3400,7 +3400,7 @@ RispostaCorretta: 3
 
 Numero: 426
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B426.jpg
+Immagine: img/genova2015/B426.jpg
 Risposta1: incagliata, di lunghezza uguale o superiore a 50 metri.
 Risposta2: di lunghezza uguale o superiore a 50 metri, che mostra la sinistra.
 Risposta3: pilota, che mostra la sinistra.
@@ -3408,7 +3408,7 @@ RispostaCorretta: 2
 
 Numero: 427
 Domanda: I fanali rappresentati in figura indicano una:
-Immagine: img/liguria/B427.jpg
+Immagine: img/genova2015/B427.jpg
 Risposta1: nave di lunghezza uguale o superiore a 50 metri, con un rimorchio di lunghezza sino a 200 metri, impossibilitata a deviare dalla propria rotta, diretta verso l'osservatore.
 Risposta2: nave di lunghezza uguale o superiore a 50 metri, con rimorchio di lunghezza superiore a 200 metri, impossibilitata a deviare dalla propria rotta, che dirige verso l'osservatore.
 Risposta3: nave impegnata in lavori subacquei, che dirige verso l'osservatore.
@@ -3424,7 +3424,7 @@ RispostaCorretta: 2
 
 Numero: 429
 Domanda: La bandiera H (Hotel) prescritta dal Codice Internazionale dei Segnali come in figura, ci è esposta da un'unità per indicare che:
-Immagine: img/liguria/B429.jpg
+Immagine: img/genova2015/B429.jpg
 Risposta1: ha il pilota a bordo.
 Risposta2: non governa.
 Risposta3: è incagliata.
@@ -3432,7 +3432,7 @@ RispostaCorretta: 1
 
 Numero: 430
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B430.jpg
+Immagine: img/genova2015/B430.jpg
 Risposta1: una nave condizionata dalla propria immersione.
 Risposta2: una nave con manovrabilità limitata, con un lato ostruito.
 Risposta3: una nave da pesca che opera con attrezzi non a strascico estesi fuori bordo per più di 150 metri.
@@ -3440,7 +3440,7 @@ RispostaCorretta: 3
 
 Numero: 431
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B431.jpg
+Immagine: img/genova2015/B431.jpg
 Risposta1: una nave che non governa.
 Risposta2: una nave da pesca, intenta alla pesca a strascico.
 Risposta3: una nave condizionata dalla propria immersione.
@@ -3448,7 +3448,7 @@ RispostaCorretta: 3
 
 Numero: 432
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B432.jpg
+Immagine: img/genova2015/B432.jpg
 Risposta1: una nave condizionata dalla propria immersione.
 Risposta2: una nave incagliata.
 Risposta3: una nave alla fonda, di lunghezza uguale o superiore a 50 metri.
@@ -3456,7 +3456,7 @@ RispostaCorretta: 2
 
 Numero: 433
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B433.jpg
+Immagine: img/genova2015/B433.jpg
 Risposta1: una nave incagliata.
 Risposta2: una nave che non governa.
 Risposta3: una nave alla fonda.
@@ -3464,7 +3464,7 @@ RispostaCorretta: 2
 
 Numero: 434
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B434.jpg
+Immagine: img/genova2015/B434.jpg
 Risposta1: una nave incagliata.
 Risposta2: una nave alla fonda.
 Risposta3: una nave che non governa.
@@ -3472,7 +3472,7 @@ RispostaCorretta: 2
 
 Numero: 435
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B435.jpg
+Immagine: img/genova2015/B435.jpg
 Risposta1: una nave alla fonda.
 Risposta2: una nave condizionata dalla propria immersione.
 Risposta3: un rimorchiatore con rimorchio di lunghezza superiore a 200 metri.
@@ -3480,7 +3480,7 @@ RispostaCorretta: 3
 
 Numero: 436
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B436.jpg
+Immagine: img/genova2015/B436.jpg
 Risposta1: un dragamine.
 Risposta2: una nave condizionata dalla propria immersione.
 Risposta3: una nave incagliata.
@@ -3488,7 +3488,7 @@ RispostaCorretta: 1
 
 Numero: 437
 Domanda: Il segnale diurno rappresentato in figura indica:
-Immagine: img/liguria/B437.jpg
+Immagine: img/genova2015/B437.jpg
 Risposta1: una nave incagliata.
 Risposta2: una nave alla fonda.
 Risposta3: un'unità a vela che naviga anche a motore.
@@ -3536,7 +3536,7 @@ RispostaCorretta: 3
 
 Numero: 443
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B443.jpg
+Immagine: img/genova2015/B443.jpg
 Risposta1: di lunghezza uguale o superiore a 50 metri, intenta alla pesca non a strascico.
 Risposta2: di lunghezza uguale o superiore a 50 metri, all'ancora, che trasporta merci pericolose.
 Risposta3: di lunghezza uguale o superiore a 50 metri, incagliata, vista di fianco.
@@ -3696,7 +3696,7 @@ RispostaCorretta: 1
 
 Numero: 463
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B463.jpg
+Immagine: img/genova2015/B463.jpg
 Risposta1: di lunghezza uguale o superiore a 50 metri, che non può governare, che dirige a dritta dell'osservatore.
 Risposta2: di lunghezza inferiore a 50 metri, con manovrabilità limitata, che dirige a dritta dell'osservatore.
 Risposta3: di lunghezza uguale o superiore a 50 metri, con manovrabilità limitata, che dirige a dritta dell'osservatore.
@@ -3704,7 +3704,7 @@ RispostaCorretta: 3
 
 Numero: 464
 Domanda: I fanali rappresentati in figura indicano una nave:
-Immagine: img/liguria/B464.jpg
+Immagine: img/genova2015/B464.jpg
 Risposta1: di lunghezza uguale o superiore a 50 metri, con manovrabilità limitata, che dirige a sinistra dell'osservatore.
 Risposta2: di lunghezza uguale o superiore a 50 metri, condizionata dalla propria immersione, che dirige a sinistra dell'osservatore.
 Risposta3: di lunghezza uguale o superiore a 50 metri, che non può governare, che dirige con abbrivio a sinistra dell'osservatore.
@@ -3792,7 +3792,7 @@ RispostaCorretta: 2
 
 Numero: 475
 Domanda: Navigazione fluviale; il segnale rappresentato in figura indica:
-Immagine: img/liguria/B475.jpg
+Immagine: img/genova2015/B475.jpg
 Risposta1: segnale di chiamata e rimando; dirigersi verso la sponda dove si trova il segnale e abbandonarla immediatamente dopo averla raggiunta.
 Risposta2: segnale di chiamata e rimando; dobbiamo proseguire lungo la sponda dove si trova il segnale sino ad avviso successivo.
 Risposta3: segnale di chiamata e rimando; dirigersi verso la sponda e fare marcia indietro.
@@ -3832,7 +3832,7 @@ RispostaCorretta: 3
 
 Numero: 480
 Domanda: Navigazione fluviale; il segnale rappresentato in figura è un segnale il quale:
-Immagine: img/liguria/B480.jpg
+Immagine: img/genova2015/B480.jpg
 Risposta1: se presente sulla sponda destra, indica che dobbiamo abbandonare la sponda dove si trova il segnale.
 Risposta2: se presente sulla sponda destra, indica che dobbiamo dirigere verso la sponda dove si trova il segnale.
 Risposta3: indica che dobbiamo invertire il senso di marcia.
@@ -3840,7 +3840,7 @@ RispostaCorretta: 2
 
 Numero: 481
 Domanda: Navigazione fluviale; il segnale rappresentato in figura è un segnale il quale:
-Immagine: img/liguria/B481.jpg
+Immagine: img/genova2015/B481.jpg
 Risposta1: se presente sulla sponda sinistra, indica che dobbiamo dirigere verso la sponda dove si trova il segnale.
 Risposta2: se presente sulla sponda sinistra, indica che dobbiamo abbandonare la sponda dove si trova il segnale.
 Risposta3: indica che dobbiamo invertire il senso di marcia.
@@ -3848,7 +3848,7 @@ RispostaCorretta: 1
 
 Numero: 482
 Domanda: Navigazione fluviale; il segnale rappresentato in figura indica:
-Immagine: img/liguria/B482.jpg
+Immagine: img/genova2015/B482.jpg
 Risposta1: segnale di prosecuzione nella sponda opposta; dobbiamo ridurre la velocità.
 Risposta2: segnale di prosecuzione; dobbiamo aumentare la velocità perché c'è una forte corrente.
 Risposta3: segnale di prosecuzione; dobbiamo proseguire lungo la sponda dove si trova il segnale sino ad avviso successivo.
@@ -3904,7 +3904,7 @@ RispostaCorretta: 3
 
 Numero: 489
 Domanda: La bandiera A (Alfa), prescritta dal Codice Internazionale dei Segnali come in figura, ci è esposta da un'unità per indicare che:
-Immagine: img/liguria/B489.jpg
+Immagine: img/genova2015/B489.jpg
 Risposta1: ha imbarcato il pilota del porto.
 Risposta2: ha un palombaro in immersione.
 Risposta3: è ferma.
@@ -4144,7 +4144,7 @@ RispostaCorretta: 2
 
 Numero: 519
 Domanda: Salvo le ordinanze locali, di norma quale delle due imbarcazioni in figura a lato ha il diritto di precedenza?
-Immagine: img/liguria/B519.jpg
+Immagine: img/genova2015/B519.jpg
 Risposta1: l'unità A, perché proviene da dritta.
 Risposta2: l'unità A, perché è in fase di avvicinamento all'imboccatura del porto.
 Risposta3: l'unità B, perché sta uscendo dal porto.
@@ -4256,7 +4256,7 @@ RispostaCorretta: 3
 
 Numero: 533
 Domanda: In figura è indicata un'unità all'ormeggio; quali cime d'ormeggio indicano le frecce?
-Immagine: img/liguria/B533.jpg
+Immagine: img/genova2015/B533.jpg
 Risposta1: spring.
 Risposta2: alla ruota.
 Risposta3: alla lunga.
@@ -5752,7 +5752,7 @@ RispostaCorretta: 3
 
 Numero: 720
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B720.jpg
+Immagine: img/genova2015/B720.jpg
 Risposta1: un punto di ormeggio con porto turistico.
 Risposta2: un campanile.
 Risposta3: la presenza di un faro.
@@ -5760,7 +5760,7 @@ RispostaCorretta: 2
 
 Numero: 721
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B721.jpg
+Immagine: img/genova2015/B721.jpg
 Risposta1: una zona di divieto di pesca.
 Risposta2: un dispositivo di separazione del traffico.
 Risposta3: la presenza di condutture sottomarine.
@@ -5768,7 +5768,7 @@ RispostaCorretta: 3
 
 Numero: 722
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B722.jpg
+Immagine: img/genova2015/B722.jpg
 Risposta1: la presenza di un cavo sottomarino.
 Risposta2: una zona dove è vietato il transito.
 Risposta3: la presenza di un tunnel sottomarino.
@@ -5776,7 +5776,7 @@ RispostaCorretta: 1
 
 Numero: 723
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B723.jpg
+Immagine: img/genova2015/B723.jpg
 Risposta1: punto di ormeggio in banchina di idrovolanti.
 Risposta2: punto di ancoraggio idrovolanti
 Risposta3: punto di ammaraggio idrovolanti.
@@ -5784,7 +5784,7 @@ RispostaCorretta: 3
 
 Numero: 724
 Domanda: Il simbolo in figura, riportato sulle carte nautiche internazionali, indica
-Immagine: img/liguria/B724.jpg
+Immagine: img/genova2015/B724.jpg
 Risposta1: boa con miraglio.
 Risposta2: segnali galleggianti con risponditori radar.
 Risposta3: relitto in parte emergente.
@@ -5792,7 +5792,7 @@ RispostaCorretta: 3
 
 Numero: 725
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B725.jpg
+Immagine: img/genova2015/B725.jpg
 Risposta1: di passare ad un miglio dalla zona dove si trova il simbolo.
 Risposta2: un punto di fonda.
 Risposta3: di fare attenzione all'ancoraggio sul fondale dove si trova il simbolo.
@@ -5800,7 +5800,7 @@ RispostaCorretta: 2
 
 Numero: 726
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B726.jpg
+Immagine: img/genova2015/B726.jpg
 Risposta1: zona di divieto di pesca con abbrivio alla fonda.
 Risposta2: rotatoria di separazione del traffico.
 Risposta3: zona di divieto di ancoraggio.
@@ -5816,7 +5816,7 @@ RispostaCorretta: 1
 
 Numero: 728
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B728.jpg
+Immagine: img/genova2015/B728.jpg
 Risposta1: il punto d'imbarco del pilota del porto.
 Risposta2: il punto di presa del cavo da parte dei rimorchiatori in occasione delle manovre di ingresso delle navi di grosso tonnellaggio.
 Risposta3: una stazione di rifornimento carburanti per unità da diporto.
@@ -5824,7 +5824,7 @@ RispostaCorretta: 1
 
 Numero: 729
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B729.jpg
+Immagine: img/genova2015/B729.jpg
 Risposta1: punto di ancoraggio idrovolanti
 Risposta2: punto di ammaraggio idrovolanti.
 Risposta3: punto di ormeggio in banchina di idrovolanti.
@@ -5992,7 +5992,7 @@ RispostaCorretta: 1
 
 Numero: 750
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica:
-Immagine: img/liguria/B750.jpg
+Immagine: img/genova2015/B750.jpg
 Risposta1: indica una zona interdetta o regolamentata.
 Risposta2: delimita una zona riservata alla balneazione.
 Risposta3: delimita una zona riservata agli ormeggi in porto.
@@ -6000,7 +6000,7 @@ RispostaCorretta: 1
 
 Numero: 751
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica la presenza di
-Immagine: img/liguria/B751.jpg
+Immagine: img/genova2015/B751.jpg
 Risposta1: uno scoglio sommerso.
 Risposta2: uno scoglio affiorante.
 Risposta3: un campanile.
@@ -6008,7 +6008,7 @@ RispostaCorretta: 2
 
 Numero: 752
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica la presenza di
-Immagine: img/liguria/B752.jpg
+Immagine: img/genova2015/B752.jpg
 Risposta1: scogli sommersi pericolosi per la navigazione.
 Risposta2: scogli sommersi non pericolosi per la navigazione.
 Risposta3: scogli affioranti.
@@ -6016,7 +6016,7 @@ RispostaCorretta: 1
 
 Numero: 753
 Domanda: Il simbolo in figura, riportato sulla carta nautica, indica la presenza di un:
-Immagine: img/liguria/B753.jpg
+Immagine: img/genova2015/B753.jpg
 Risposta1: cavo elettrico non perfettamente isolato. E' pericoloso immergersi in acqua.
 Risposta2: cavo sottomarino non più in funzione o abbandonato.
 Risposta3: cavo sottomarino in attività.
@@ -6040,7 +6040,7 @@ RispostaCorretta: 2
 
 Numero: 756
 Domanda: Il simbolo in figura indica la presenza di una zona dove è:
-Immagine: img/liguria/B756.jpg
+Immagine: img/genova2015/B756.jpg
 Risposta1: possibile l'ancoraggio di piccole navi.
 Risposta2: possibile l'ancoraggio con ancora dotata di una sola marra.
 Risposta3: probabile che l'ancora s'incastri sul fondo.
@@ -7880,7 +7880,7 @@ RispostaCorretta: 1
 
 Numero: 986
 Domanda: Il segnale AISM - IALA regione A, in figura, è un segnale:
-Immagine: img/liguria/B986.jpg
+Immagine: img/genova2015/B986.jpg
 Risposta1: cardinale che indica di passare a Ovest dello stesso perché il pericolo è ad Est.
 Risposta2: cardinale che indica di passare a Est dello stesso perché il pericolo è ad Ovest.
 Risposta3: cardinale che indica di passare a Nord dello stesso perché il pericolo è a Sud.
@@ -7944,7 +7944,7 @@ RispostaCorretta: 2
 
 Numero: 994
 Domanda: Il segnale AISM - IALA regione A, in figura, è un segnale:
-Immagine: img/liguria/B994.jpg
+Immagine: img/genova2015/B994.jpg
 Risposta1: di acque sicure.
 Risposta2: speciale.
 Risposta3: di pericolo isolato.
@@ -8040,7 +8040,7 @@ RispostaCorretta: 3
 
 Numero: 1006
 Domanda: Il segnale AISM - IALA regione A, in figura, è un segnale:
-Immagine: img/liguria/B1006.jpg
+Immagine: img/genova2015/B1006.jpg
 Risposta1: cardinale che indica di passare ad Est dello stesso perché il pericolo è ad Ovest.
 Risposta2: cardinale che indica di passare ad Ovest dello stesso perché il pericolo è ad Est.
 Risposta3: cardinale che indica di passare a Sud dello stesso perché il pericolo è a Nord
@@ -8056,7 +8056,7 @@ RispostaCorretta: 3
 
 Numero: 1008
 Domanda: Il segnale AISM - IALA regione A, in figura, è un segnale:
-Immagine: img/liguria/B1008.jpg
+Immagine: img/genova2015/B1008.jpg
 Risposta1: cardinale che indica di passare a Sud dello stesso perché il pericolo è a Nord
 Risposta2: cardinale che indica di passare ad Est dello stesso perché il pericolo è ad Ovest.
 Risposta3: cardinale che indica di passare ad Ovest dello stesso perché il pericolo è ad Est.
@@ -8064,7 +8064,7 @@ RispostaCorretta: 3
 
 Numero: 1009
 Domanda: Il segnale AISM - IALA regione A, in figura, è un segnale:
-Immagine: img/liguria/B1009.jpg
+Immagine: img/genova2015/B1009.jpg
 Risposta1: cardinale che indica di passare ad Est dello stesso perché il pericolo è ad Ovest.
 Risposta2: cardinale che indica di passare a Sud dello stesso perché il pericolo è a Nord.
 Risposta3: cardinale che indica di passare ad Ovest dello stesso perché il pericolo è ad Est.
@@ -8256,7 +8256,7 @@ RispostaCorretta: 1
 
 Numero: 1033
 Domanda: Qual è il settore di visibilità di un faro come in figura a fianco?
-Immagine: img/liguria/B1033.jpg
+Immagine: img/genova2015/B1033.jpg
 Risposta1: da 090° a 270°
 Risposta2: da 270° a 090°
 Risposta3: da W ad E

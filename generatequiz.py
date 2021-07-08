@@ -10,7 +10,7 @@ from termcolor import colored
 ### LIGURIA - ENTRO LE 12 MIGLIA
 ### BEGIN
 
-QUIZ_LIGURIA = 'quiz_liguria.txt'
+QUIZ = 'quiz/genova2018.txt'
 
 EXAM_LIGURIA = [
 	{'count':2, 'from':1, 'to':135},
@@ -62,6 +62,7 @@ def filterquizbynumber(l, f):
 	r = []
 	for i in range(0, len(f)): f[i] = int(f[i])
 	for e in l:
+		if e.get('numero') is None: continue
 		if int(e.get('numero')) in f: r.append(e)
 	return r
 
@@ -155,7 +156,7 @@ parser.add_argument('--exam', action='store_true', default=False,
 args = parser.parse_args()
 
 # loading data
-quiz = loaddata(QUIZ_LIGURIA)
+quiz = loaddata(QUIZ)
 
 # parsing arguments and acting accordingly
 if args.range != None:

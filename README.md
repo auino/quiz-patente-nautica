@@ -28,7 +28,6 @@ cd quiz-patente-nautica
 pip3 install -r requirements.txt
 ```
 
-
 ### Esecuzione ###
 
 Vengono riportati a seguire alcuni comandi di esempio.
@@ -68,7 +67,7 @@ python3 generatequiz.py --exam
 
 ### Estensioni ###
 
-Sebbene il software riporti solamente un caso specifico di utilizzo, è possibile estenderlo con qualsiasi tipo di esame ministeriale basato su quiz.
+Sebbene il software riporti solamente un caso specifico di utilizzo, è possibile estenderlo con qualsiasi tipo di esame ministeriale basato su test a risposta multipla, con tre opzioni disponibili, utilizzando il formato riportato nei quiz di esempio.
 
 ### Contatti ###
 
