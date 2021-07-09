@@ -149,7 +149,7 @@ def showquiz(l, shouldshuffle, seed, success_percentage):
 			time.sleep(2)
 			screen_clear()
 		i += 1
-	if (len(l) - len(ignorednumbers)) > 0: print('Risultato del quiz: {} ({}/{})'.format((colored('superato', 'green') if (len(correctnumbers)/(len(l) - len(ignorednumbers)) >= float(success_percentage)) else colored('non superato', 'red')), len(correctnumbers), len(l)))
+	if (len(l) - len(ignorednumbers)) > 0: print('Risultato del quiz: {} ({}/{})'.format((colored('superato', 'green') if (len(correctnumbers)/(len(l) - len(ignorednumbers)) >= float(success_percentage)) else colored('non superato', 'red')), len(correctnumbers), len(l)-len(ignorednumbers)))
 	if len(correctnumbers) > 0: print('Numero di quiz delle risposte corrette: {}'.format(','.join(correctnumbers)))
 	if len(ignorednumbers) > 0: print('Numero di quiz delle risposte ignorate: {}'.format(','.join(ignorednumbers)))
 	if len(wrongnumbers) > 0: print('Numero di quiz delle risposte errate: {}'.format(','.join(wrongnumbers)))
@@ -203,7 +203,6 @@ if args.repeatexam != None:
 
 # sorting the list
 quiz = sorted(quiz, key=lambda x: int(x.get('numero')))
-
 
 # showing the list of quiz
 try: showquiz(quiz, args.shuffle, seed, exam_info.get('exam_success_percentage'))
