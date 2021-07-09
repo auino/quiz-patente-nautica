@@ -70,6 +70,10 @@ python3 generatequiz.py --exam
 ```
 python3 generatequiz.py --repeatexam 12345
 ```
+* Caricare un file differente da quello di default
+```
+python3 generatequiz.py --file quiz/genova2015.txt
+```
 
 Al termine dell'esecuzione, i numeri delle eventuali risposte errate verranno mostrati in output.
 
@@ -106,7 +110,12 @@ python3 generatequiz.py --repeatexam 12345
 
 ### Estensioni ###
 
-Sebbene il software riporti solamente un caso specifico di utilizzo, è possibile estenderlo con qualsiasi tipo di esame ministeriale basato su test a risposta multipla, con tre opzioni disponibili, utilizzando il formato riportato nei quiz di esempio.
+Sebbene il software riporti solamente specifici casi di utilizzo, è possibile estenderlo con qualsiasi tipo di esame ministeriale basato su test a risposta multipla, con tre opzioni disponibili, utilizzando il formato riportato nei quiz di esempio.
+
+In riferimento a ciò, consultare i file all'interno della directory `quiz`, considerando che:
+* le righe che iniziano con il carattere `#` identificano commenti
+* la prima riga utile deve contenere dettagli utili per l'esame, rispettando il formato presente nei file all'interno della directory `quiz`
+* la struttura ed i nomi delle proprietà deve restare invariata
 
 ### Contatti ###
 

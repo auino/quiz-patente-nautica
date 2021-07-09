@@ -1,3 +1,7 @@
+# quiz genova 2018
+# configurazione esame
+{"exam_success_percentage":0.85,"exam_details":[{"count":2, "from":1, "to":135},{"count":2, "from":136, "to":220},{"count":4, "from":221, "to":299},{"count":5, "from":300, "to":562},{"count":2, "from":563, "to":627},{"count":4, "from":628, "to":1040},{"count":1, "from":1041, "to":1152}]}
+# lista di domande
 Numero: 1
 Domanda: La stazza è:
 Immagine: 

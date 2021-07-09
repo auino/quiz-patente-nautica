@@ -1,4 +1,5 @@
 import os
+import json
 import time
 import random
 import argparse
@@ -7,20 +8,10 @@ import matplotlib.image as mpimg
 from termcolor import colored
 
 ### DATA BASED ON THE FOLLOWING EXAMINATION:
-### LIGURIA - ENTRO LE 12 MIGLIA
+### LIGURIA - ENTRO LE 12 MIGLIA - 2018
 ### BEGIN
 
-QUIZ = 'quiz/genova2018.txt'
-
-EXAM_LIGURIA = [
-	{'count':2, 'from':1, 'to':135},
-	{'count':2, 'from':136, 'to':220},
-	{'count':4, 'from':221, 'to':299},
-	{'count':5, 'from':300, 'to':562},
-	{'count':2, 'from':563, 'to':627},
-	{'count':4, 'from':628, 'to':1040},
-	{'count':1, 'from':1041, 'to':1152}
-]
+DEFAULT_QUIZ = 'quiz/genova2018.txt'
 
 ### END
 
@@ -32,21 +23,37 @@ def screen_clear():
 	else: # for windows platfrom
 		_ = os.system('cls')
 
+def alphabetasarray():
+	m = []
+	s = 'A'
+	for i in range(0, 26): m.append(chr(ord(s)+i))
+	return m
+
 def numbertoa(n):
-	m = ['A', 'B', 'C']
+	m = alphabetasarray()
 	return m[int(n)-1]
 
 def atonumber(a):
-	m = ['A', 'B', 'C']
+	m = alphabetasarray()
 	for i in range(0, len(m)):
 		if a.upper() == m[i]: return i+1
 	return 0
+
+def removecommentedlines(s):
+	r = []
+	for s in s.split('\n'):
+		if len(s) > 0 and s[0] == '#': continue
+		r.append(s)
+	return '\n'.join(r)
 
 def loaddata(filename):
 	r = []
 	f = open(filename, 'r')
 	d = f.read()
 	f.close()
+	d = removecommentedlines(d)
+	basicdata = json.loads(d.split('\n')[0])
+	d = d[d.index('\n')+1:]
 	for slot in d.split('\n\n'):
 		e = {}
 		for row in slot.split('\n'):
@@ -56,7 +63,7 @@ def loaddata(filename):
 				e[str(k)] = str(v)
 			except: pass
 		r.append(e)
-	return r
+	return {'exam_info':basicdata, 'questions':r}
 
 def filterquizbynumber(l, f):
 	r = []
@@ -88,12 +95,11 @@ def filterquizbyimage(l):
 		if len(e.get('immagine')) > 0: r.append(e)
 	return r
 
-def generaterandomexam(l, seed=None):
+def generaterandomexam(l, exam_info, seed):
 	r = []
-	if seed is None: seed = int(time.time())
 	print("Identificativo utilizzato per la simulazione di esame: {}".format(seed))
 	random.seed(seed)
-	for e in EXAM_LIGURIA:
+	for e in exam_info:
 		block_list = l[e.get('from')-1:e.get('to')]
 		random.shuffle(block_list)
 		r += block_list[:e.get('count')]
@@ -113,8 +119,9 @@ def shuffle_answers(d):
 	d['risposta3'] = a[2]
 	return d
 
-def showquiz(l, shouldshuffle):
+def showquiz(l, shouldshuffle, seed, success_percentage):
 	screen_clear()
+	if seed != None: print('Identificativo della simulazione di esame: {}\n'.format(seed))
 	correctnumbers = []
 	wrongnumbers = []
 	ignorednumbers = []
@@ -142,7 +149,7 @@ def showquiz(l, shouldshuffle):
 			time.sleep(2)
 			screen_clear()
 		i += 1
-	if (len(l) - len(ignorednumbers)) > 0: print('Risultato del quiz: {} ({}/{})'.format(('superato' if (len(correctnumbers)/(len(l) - len(ignorednumbers)) >= 17/20) else 'non superato'), len(correctnumbers), len(l)))
+	if (len(l) - len(ignorednumbers)) > 0: print('Risultato del quiz: {} ({}/{})'.format((colored('superato', 'green') if (len(correctnumbers)/(len(l) - len(ignorednumbers)) >= float(success_percentage)) else colored('non superato', 'red')), len(correctnumbers), len(l)))
 	if len(correctnumbers) > 0: print('Numero di quiz delle risposte corrette: {}'.format(','.join(correctnumbers)))
 	if len(ignorednumbers) > 0: print('Numero di quiz delle risposte ignorate: {}'.format(','.join(ignorednumbers)))
 	if len(wrongnumbers) > 0: print('Numero di quiz delle risposte errate: {}'.format(','.join(wrongnumbers)))
@@ -151,6 +158,8 @@ def showquiz(l, shouldshuffle):
 
 # arguments configuration
 parser = argparse.ArgumentParser(description='Quiz patente nautica - Liguria - Entro le 12 miglia')
+parser.add_argument('--file', type=str, default=DEFAULT_QUIZ,
+	help='il file da utilizzare (default "{}")'.format(DEFAULT_QUIZ))
 parser.add_argument('--range', type=str,
 	help='i numeri iniziale e finale dei quiz da selezionare, separati da trattino, (es. "1-135", considerando sia il quiz numero 1 che il quiz numero 135)')
 parser.add_argument('--select', type=str,
@@ -171,7 +180,9 @@ parser.add_argument('--repeatexam', type=str,
 args = parser.parse_args()
 
 # loading data
-quiz = loaddata(QUIZ)
+data = loaddata(args.file)
+exam_info = data.get('exam_info')
+quiz = data.get('questions')
 
 # parsing arguments and acting accordingly
 if args.range != None:
@@ -182,12 +193,18 @@ if args.select != None: quiz = filterquizbynumber(quiz, args.select.split(','))
 if args.search != None: quiz = filterquizbyquestion(quiz, args.search)
 if args.searchanswer != None: quiz = filterquizbyanswer(quiz, args.searchanswer)
 if args.onlyimages: quiz = filterquizbyimage(quiz)
-if args.exam: quiz = generaterandomexam(quiz)
-if args.repeatexam != None: quiz = generaterandomexam(quiz, args.repeatexam)
+seed = None
+if args.exam:
+	seed = int(time.time())
+	quiz = generaterandomexam(quiz, exam_info.get('exam_details'), seed)
+if args.repeatexam != None:
+	seed = args.repeatexam
+	quiz = generaterandomexam(quiz, exam_info.get('exam_details'), seed)
 
 # sorting the list
 quiz = sorted(quiz, key=lambda x: int(x.get('numero')))
 
+
 # showing the list of quiz
-try: showquiz(quiz, args.shuffle)
+try: showquiz(quiz, args.shuffle, seed, exam_info.get('exam_success_percentage'))
 except KeyboardInterrupt as e: pass
