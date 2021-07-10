@@ -121,7 +121,6 @@ def shuffle_answers(d):
 
 def showquiz(l, shouldshuffle, seed, success_percentage):
 	screen_clear()
-	if seed != None: print('Identificativo della simulazione di esame: {}\n'.format(seed))
 	correctnumbers = []
 	wrongnumbers = []
 	ignorednumbers = []
@@ -135,7 +134,7 @@ def showquiz(l, shouldshuffle, seed, success_percentage):
 			plt.show()
 		r = input('Opzione scelta: ')
 		if len(r) == 0:
-			print(colored('Risposta ignorata.', 'grey'))
+			print(colored('Risposta ignorata. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'grey'))
 			ignorednumbers.append(q.get('numero'))
 		else:
 			if atonumber(r[0]) == int(q.get('rispostacorretta')):
@@ -207,3 +206,5 @@ quiz = sorted(quiz, key=lambda x: int(x.get('numero')))
 # showing the list of quiz
 try: showquiz(quiz, args.shuffle, seed, exam_info.get('exam_success_percentage'))
 except KeyboardInterrupt as e: pass
+
+if seed != None: print('Identificativo della simulazione di esame: {}\n'.format(seed))
