@@ -197,7 +197,7 @@ if args.exam:
 	seed = int(time.time())
 	quiz = generaterandomexam(quiz, exam_info.get('exam_details'), seed)
 if args.repeatexam != None:
-	seed = args.repeatexam
+	seed = int(args.repeatexam)
 	quiz = generaterandomexam(quiz, exam_info.get('exam_details'), seed)
 
 # sorting the list
@@ -205,6 +205,6 @@ quiz = sorted(quiz, key=lambda x: int(x.get('numero')))
 
 # showing the list of quiz
 try: showquiz(quiz, args.shuffle, seed, exam_info.get('exam_success_percentage'))
-except KeyboardInterrupt as e: pass
+except KeyboardInterrupt as e: print('')
 
 if seed != None: print('Identificativo della simulazione di esame: {}\n'.format(seed))

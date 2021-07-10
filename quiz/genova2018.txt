@@ -2374,7 +2374,7 @@ Numero: 297
 Domanda: Un aeroplano ci passa vicino e lancia razzi a luce verde:
 Immagine: 
 Risposta1: ci vuole comunicare che, con la rotta che stiamo seguendo, ci stiamo dirigendo in una zona pericolosa. 
-Risposta2: ci vuole comunicare che ha un importante messaggio da trasmettervi via radio nella frequenza VHF 121,5 o 156,8 MHz). 
+Risposta2: ci vuole comunicare che ha un importante messaggio da trasmettervi via radio (nella frequenza VHF 121,5 o 156,8 MHz). 
 Risposta3: ci chiede di seguirlo verso una nave in pericolo. 
 RispostaCorretta: 2
 
@@ -5739,7 +5739,7 @@ Risposta3: batimetriche.
 RispostaCorretta: 2
 
 Numero: 718
-Domanda: Sulla carta di Mercatore le distanze sono misurate sulla scala:.
+Domanda: Sulla carta di Mercatore le distanze sono misurate sulla scala:
 Immagine: 
 Risposta1: dell'angolo di rotta. 
 Risposta2: delle latitudini, che è anche scala delle distanze. 
