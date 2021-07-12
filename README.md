@@ -66,6 +66,10 @@ python3 generatequiz.py --shuffle
 ```
 python3 generatequiz.py --exam
 ```
+* Fare una simulazione di esame, senza mostrare la risposta corretta per ogni domanda
+```
+python3 generatequiz.py --exam --nodirectanswers
+```
 * Ripetere una simulazione di esame (sulla base di un identificativo di esame specifico)
 ```
 python3 generatequiz.py --repeatexam 12345

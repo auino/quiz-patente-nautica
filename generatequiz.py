@@ -3,6 +3,7 @@ import json
 import time
 import random
 import argparse
+import datetime
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from termcolor import colored
@@ -119,7 +120,7 @@ def shuffle_answers(d):
 	d['risposta3'] = a[2]
 	return d
 
-def showquiz(l, shouldshuffle, seed, success_percentage):
+def showquiz(l, shouldshuffle, nodirectanswers, seed, success_percentage):
 	screen_clear()
 	correctnumbers = []
 	wrongnumbers = []
@@ -134,14 +135,14 @@ def showquiz(l, shouldshuffle, seed, success_percentage):
 			plt.show()
 		r = input('Opzione scelta: ')
 		if len(r) == 0:
-			print(colored('Risposta ignorata. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'grey'))
+			if not nodirectanswers: print(colored('Risposta ignorata. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'grey'))
 			ignorednumbers.append(q.get('numero'))
 		else:
 			if atonumber(r[0]) == int(q.get('rispostacorretta')):
-				print(colored('Corretto!', 'green'))
+				if not nodirectanswers: print(colored('Corretto!', 'green'))
 				correctnumbers.append(q.get('numero'))
 			else:
-				print(colored('Errato. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'red'))
+				if not nodirectanswers: print(colored('Errato. La risposta corretta è la {}.'.format(numbertoa(q.get('rispostacorretta'))), 'red'))
 				wrongnumbers.append(q.get('numero'))
 		print('')
 		if CLEAR_SCREEN:
@@ -171,6 +172,8 @@ parser.add_argument('--onlyimages', action='store_true', default=False,
 	help='per selezionare solo i quiz contenenti immagini')
 parser.add_argument('--shuffle', action='store_true', default=False,
 	help='per mischiare casualmente le risposte')
+parser.add_argument('--nodirectanswers', action='store_true', default=False,
+	help='per evitare di ottenere immediatatamente la risposta corretta')
 parser.add_argument('--exam', action='store_true', default=False,
 	help='per generare un possibile testo di esame')
 parser.add_argument('--repeatexam', type=str,
@@ -203,8 +206,17 @@ if args.repeatexam != None:
 # sorting the list
 quiz = sorted(quiz, key=lambda x: int(x.get('numero')))
 
+# saving start time
+starttime = time.time()
+
 # showing the list of quiz
-try: showquiz(quiz, args.shuffle, seed, exam_info.get('exam_success_percentage'))
+try: showquiz(quiz, args.shuffle, args.nodirectanswers, seed, exam_info.get('exam_success_percentage'))
 except KeyboardInterrupt as e: print('')
 
-if seed != None: print('Identificativo della simulazione di esame: {}\n'.format(seed))
+if seed != None:
+	print('Identificativo della simulazione di esame: {}'.format(seed))
+	# showing elapsed time
+	endtime = time.time()
+	elapsedtime = int(endtime - starttime)
+	elapsedtime = str(datetime.timedelta(seconds=elapsedtime))
+	print('Durata della simulazione: {}'.format(elapsedtime))
