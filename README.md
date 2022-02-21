@@ -121,6 +121,8 @@ In riferimento a ciò, consultare i file all'interno della directory `quiz`, con
 * la prima riga utile deve contenere dettagli utili per l'esame, rispettando il formato presente nei file all'interno della directory `quiz`
 * la struttura ed i nomi delle proprietà deve restare invariata
 
+Ad esempio, è possibile estendere il programma in modo da includere i [quiz ministeriali del D.M. 323 del 10 agosto 2021](https://www.mit.gov.it/nfsmitgov/files/media/normativa/2022-02/ALLEGATO%20A%20DD%2010%20DEL%2025GEN2022.pdf).
+
 ### Contatti ###
 
 E' possibile trovarmi su [Twitter](https://twitter.com) come [@auino](https://twitter.com/auino).
