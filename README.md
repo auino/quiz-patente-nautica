@@ -4,7 +4,7 @@
 
 ### Introduzione ###
 
-Questo software permette di prepararsi all'esame teorico per il conseguimento dell'abilitazione alla navigazione entro le 12 miglia, considerando i [quiz della Capitaneria di Porto di Genova](https://www.guardiacostiera.gov.it/genova/Documents/CPGE%20LISTA%20QUIZ%20BASE%20-%20aggiornamento%202018.03.07.pdf).
+Questo software permette di prepararsi all'esame teorico per il conseguimento dell'abilitazione alla navigazione entro le 12 miglia, considerando i [quiz della Capitaneria di Porto di Genova](https://www.guardiacostiera.gov.it/genova/Documents/CPGE%20LISTA%20QUIZ%20BASE%20-%20aggiornamento%202018.03.07.pdf) (anno 2018).
 
 ### Caratteristiche ###
 
