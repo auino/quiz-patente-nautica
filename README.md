@@ -4,7 +4,7 @@
 
 ### Introduzione ###
 
-Questo software permette di prepararsi all'esame teorico per il conseguimento dell'abilitazione alla navigazione entro le 12 miglia, considerando i [quiz della Capitaneria di Porto di Genova](https://www.guardiacostiera.gov.it/genova/Documents/CPGE%20LISTA%20QUIZ%20BASE%20-%20aggiornamento%202018.03.07.pdf) (anno 2018).
+Questo software permette di prepararsi all'esame teorico per il conseguimento dell'abilitazione alla navigazione entro le 12 miglia, considerando i [quiz del Ministero delle Infrastrutture de della Mobilità Sostenibili (MIMS), Decreto Direttoriale n. 10 del 25 gennaio 2022 (d.m. 323 del 10/08/2021)](https://www.mit.gov.it/nfsmitgov/files/media/normativa/2022-02/ALLEGATO%20A%20DD%2010%20DEL%2025GEN2022.pdf) (anno 2022).
 
 ### Caratteristiche ###
 
@@ -121,7 +121,10 @@ In riferimento a ciò, consultare i file all'interno della directory `quiz`, con
 * la prima riga utile deve contenere dettagli utili per l'esame, rispettando il formato presente nei file all'interno della directory `quiz`
 * la struttura ed i nomi delle proprietà deve restare invariata
 
-Ad esempio, è possibile estendere il programma in modo da includere i [quiz ministeriali del D.M. 323 del 10 agosto 2021](https://www.mit.gov.it/nfsmitgov/files/media/normativa/2022-02/ALLEGATO%20A%20DD%2010%20DEL%2025GEN2022.pdf).
+### Osservazioni sui quiz ###
+
+I [quiz del Ministero delle Infrastrutture de della Mobilità Sostenibili (MIMS), Decreto Direttoriale n. 10 del 25 gennaio 2022 (d.m. 323 del 10/08/2021)](https://www.mit.gov.it/nfsmitgov/files/media/normativa/2022-02/ALLEGATO%20A%20DD%2010%20DEL%2025GEN2022.pdf) disponibili non riportano la domanda numero 1.4.2.38.
+Per questo motivo, i quiz presenti in questo documento sono stati adattati, specialmente per quanto riguarda la numerazione, per escludere questo test.
 
 ### Contatti ###
 

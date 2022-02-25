@@ -9,10 +9,11 @@ import matplotlib.image as mpimg
 from termcolor import colored
 
 ### DATA BASED ON THE FOLLOWING EXAMINATION:
-### LIGURIA - ENTRO LE 12 MIGLIA - 2018
+### Ministero delle Infrastrutture de della Mobilità Sostenibili (MIMS), Decreto Direttoriale n. 10 del 25 gennaio 2022 (d.m. 323 del 10/08/2021)
+### ESAME ENTRO LE 12 MIGLIA - 2022
 ### BEGIN
 
-DEFAULT_QUIZ = 'quiz/genova2018.txt'
+DEFAULT_QUIZ = 'quiz/mims2022.txt'
 
 ### END
 
