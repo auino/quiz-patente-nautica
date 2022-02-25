@@ -108,7 +108,10 @@ def generaterandomexam(l, exam_info, seed):
 	return r
 
 def shuffle_answers(d):
-	a = [d.get('risposta1'), d.get('risposta2'), d.get('risposta3')]
+	a = []
+	if not d.get('risposta1') is None: a.append(d.get('risposta1'))
+	if not d.get('risposta2') is None: a.append(d.get('risposta2'))
+	if not d.get('risposta3') is None: a.append(d.get('risposta3'))
 	rispostacorretta_text = a[int(d.get('rispostacorretta'))-1]
 	random.shuffle(a)
 	d['rispostacorretta'] = 0
@@ -117,8 +120,8 @@ def shuffle_answers(d):
 			d['rispostacorretta'] = i+1
 			break
 	d['risposta1'] = a[0]
-	d['risposta2'] = a[1]
-	d['risposta3'] = a[2]
+	if len(a) > 1: d['risposta2'] = a[1]
+	if len(a) > 2: d['risposta3'] = a[2]
 	return d
 
 def showquiz(l, shouldshuffle, nodirectanswers, seed, success_percentage):
@@ -129,7 +132,12 @@ def showquiz(l, shouldshuffle, nodirectanswers, seed, success_percentage):
 	i = 1
 	for q in l:
 		if shouldshuffle: q = shuffle_answers(q)
-		print('Domanda #{} ({}/{}): {}\n A. {}\n B. {}\n C. {}'.format(q.get('numero'), i, len(l), q.get('domanda'), q.get('risposta1'), q.get('risposta2'), q.get('risposta3')))
+		risposta1 = 'A. {}'.format(q.get('risposta1'))
+		risposta2 = ''
+		if not q.get('risposta2') is None: risposta2 = '\nB. {}'.format(q.get('risposta2'))
+		risposta3 = ''
+		if not q.get('risposta3') is None: risposta3 = '\nC. {}'.format(q.get('risposta3'))
+		print('Domanda #{} ({}/{}): {}\n{}{}{}'.format(q.get('numero'), i, len(l), q.get('domanda'), risposta1, risposta2, risposta3))
 		if len(q.get('immagine')) > 0:
 			img = mpimg.imread(q.get('immagine'))
 			imgplot = plt.imshow(img)

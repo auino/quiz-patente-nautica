@@ -1,0 +1,1521 @@
+# quiz mims 2022 - vela
+# configurazione esame
+{"exam_success_percentage":0.8,"exam_details":[{"count":5, "from":1, "to":213}]}
+# lista di domande
+Numero: 1
+Domanda: Lo scafo di un'unità navale a vela è la parte immersa della deriva.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 2
+Domanda: Lo scafo di un'unità a vela è la struttura galleggiante e portante della stessa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 3
+Domanda: La presenza del bulbo zavorrato in un'unità navale a vela ha la funzione di fornire alla stessa una maggiore stabilità per contrastare le azioni esterne (vento).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 4
+Domanda: La presenza del bulbo zavorrato in un'unità navale a vela ha la funzione di offrire alla stessa una maggior penetrazione alla prua, tale da farle raggiungere velocità più elevate.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 5
+Domanda: La vela si orienta in relazione al flusso del vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 6
+Domanda: Per andatura si intende la direzione verso cui la stessa procede rispetto alla direzione di provenienza del vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 7
+Domanda: Per andatura si intende la velocità raggiunta dall'unità navale a vela rispetto alla direzione di provenienza del vento
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 8
+Domanda: Quando l'unità a vela si muove a favore di vento, il vento apparente equivale alla differenza tra il vento reale e quello di velocità dell'unità navale stessa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 9
+Domanda: Quando l'unità a vela si muove a favore di vento, il vento apparente, corrisponde alla somma tra il vento reale e quello di velocità dell'unità navale
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 10
+Domanda: Quando l'unità a vela si muove controvento, il vento apparente corrisponde alla somma tra il vento reale e quello di velocità dell'unità navale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 11
+Domanda: Quando l'unità a vela si muove controvento, il vento apparente è pari al vento di velocità dell'unità navale stessa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 12
+Domanda: Durante la navigazione di una unità a vela, il vento apparente è sempre orientato più a proravia rispetto al vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 13
+Domanda: Durante la navigazione di una unità a vela, il vento apparente, è sempre orientato ortogonalmente rispetto al vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 14
+Domanda: Durante la navigazione a vela, il vento apparente ha un'intensità tanto maggiore quanto più l'unità navale procede verso la direzione da cui proviene il vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 15
+Domanda: Durante la navigazione di una navale a vela, il vento apparente ha un'intensità tanto maggiore quanto più l'unità navale si discosta dalla direzione da cui proviene il vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 16
+Domanda: Per andatura di "bolina" si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di circa 135° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 17
+Domanda: Per andatura al "traverso" si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di 45° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 18
+Domanda: Per andatura di lasco si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di circa 45° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 19
+Domanda: Per andatura di poppa si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di 90° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 20
+Domanda: Procedendo di bolina, la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta superiore rispetto a quella reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 21
+Domanda: Procedendo di bolina, la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta inferiore rispetto a quella reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 22
+Domanda: Procedendo di poppa, la velocita avvertita dell'unità a vela sembra minore perché l'intensità del vento percepita risulta inferiore rispetto a quella reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 23
+Domanda: Procedendo di poppa, la velocita avvertita dell'unità navale a vela sembra minore perché l'intensità del vento percepita risulta superiore rispetto a quella reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 24
+Domanda: Per "settore di bordeggio", o "angolo morto", si intende quel settore controvento entro il quale una unità a vela non può indirizzare la sua prua per mancanza di portanza delle vele.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 25
+Domanda: Per "settore di bordeggio", o "angolo morto", si intende quel settore entro il quale una unità a vela può navigare al fine di aumentare la velocità per raggiungere una determinata destinazione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 26
+Domanda: Un temporaneo aumento dell'intensità del vento reale (raffica) comporta una favorevole variazione della direzione del vento apparente per assumere un migliore angolo di bolina.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 27
+Domanda: Una temporanea attenuazione dell'intensità del vento reale comporta una favorevole variazione della direzione del vento apparente per assumere un migliore angolo di bolina.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 28
+Domanda: L'angolo di incidenza risulta essere l'angolo formato tra la direzione del vento apparente e quella verso cui è orientata la vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 29
+Domanda: Il centro velico risulta essere il punto di applicazione della forza del vento apparente sulle vele e sull'opera morta.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 30
+Domanda: Il centro di deriva risulta essere il centro geometrico della superficie di deriva posto sotto la chiglia dell'unità a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 31
+Domanda: Il centro velico e il centro di deriva si influenzano tra loro generando effetti che sono individuabili e prevedibili per ogni unità a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 32
+Domanda: In condizioni di timone al centro, quando il centro velico è allineato con il centro di deriva, l'unità a vela si definisce "neutra" (né poggiera né orziera).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 33
+Domanda: In condizioni di timone al centro, quando il centro velico è allineato con il centro di deriva, l'unità a vela si avvicina alla direzione del vento (orziera).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 34
+Domanda: La posizione del centro velico nelle unità a vela dipende dalla superficie e dalla forma delle vele, dalla reciproca influenza tra le vele bordate e dalla messa a punto dell'attrezzatura.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 35
+Domanda: Per "planata" si intende lo stato in cui viene a trovarsi l'unità navale a vela navigando in condizioni di equilibrio dinamico sulla cresta dell'onda generato dal suo medesimo avanzamento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 36
+Domanda: La "messa a segno" delle vele è generata dal vento apparente durante la navigazione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 37
+Domanda: La pressione esercitata dal vento sulle vele dipende dall'angolo di incidenza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 38
+Domanda: La pressione esercitata dal vento sulle vele dipende esclusivamente dal valore della prora assunta dall'unità.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 39
+Domanda: La forza di scarroccio risulta perpendicolare all'asse longitudinale dell'unità a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 40
+Domanda: La forza di propulsione risulta perpendicolare all'asse longitudinale dell'unità a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 41
+Domanda: L'albero di un'unità a vela inclinato verso poppa rende la stessa tendenzialmente orziera.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 42
+Domanda: L'albero di un'unità a vela inclinato verso prua rende la stessa tendenzialmente poggiera.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 43
+Domanda: La funzione delle stecche poste sulla randa è quella di conservare inalterata la forma della vela in qualsiasi condizione meteomarina.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 44
+Domanda: La funzione delle stecche poste sulla randa è quella garantire l'ottimale indicazione della direzione del vento sulla vela?
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 45
+Domanda: Con riguardo alla teoria della vela, il multiscafo ha una maggiore stabilità
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 46
+Domanda: Il bulbo zavorrato di un'unità a vela fornisce maggiore stabilità per contrastare l'azione esterna del vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 47
+Domanda: La stabilità di un'imbarcazione a vela è assicurata dal bulbo zavorrato.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 48
+Domanda: La vela tende, per sua natura, ad assumere una posizione neutra di 45° rispetto al flusso del vento e a ricevere una spinta in tale direzione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 49
+Domanda: Per andatura si intende la direzione verso cui procede un'unità a vela rispetto alla direzione di provenienza del vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 50
+Domanda: Si chiama "bolina" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 45° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 51
+Domanda: Si chiama "lasco" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 135° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 52
+Domanda: Si chiama "traverso" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di 90° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 53
+Domanda: Si chiama "lasco" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 90° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 54
+Domanda: Si chiama "poppa" o "fil di ruota" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di 180° rispetto alla direzione del vento reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 55
+Domanda: Procedendo di bolina, a bordo il vento percepito risulta d'intensità superiore a quella reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 56
+Domanda: Procedendo di poppa la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta superiore rispetto a quella reale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 57
+Domanda: Il settore di bordeggio è la zona dello scafo di un'unità navale a vela che concorre a fornire la spinta velica e quindi ad incrementare la velocità della stessa in funzione della direzione del vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 58
+Domanda: Si intende per lato sottovento, la superficie sopravvento della vela che è sottoposta a una depressione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 59
+Domanda: Il centro velico è il punto di applicazione della risultante delle forze dovute all'azione del vento sulle vele.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 60
+Domanda: Il centro velico è il punto di applicazione della forza idrodinamica sullo scafo dovuta allo scarroccio.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 61
+Domanda: Il centro di deriva è il centro dello scafo a vela di piccole dimensioni.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 62
+Domanda: Il centro di deriva è il punto di applicazione della resistenza laterale che si oppone alle forze idrodinamiche esercitate sull'opera viva.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 63
+Domanda: Il centro velico e il centro di deriva servono per determinare il punto nave a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 64
+Domanda: In condizioni di timone neutro (al centro), quando il centro velico è collocato a proravia del centro di deriva, l'unità navale a vela si allontanata dalla direzione del vento (è poggiera).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 65
+Domanda: In condizioni di timone neutro (al centro), quando il centro velico è allineato con il centro di deriva, l'unità navale a vela si definisce equilibrata (né poggiera né orziera).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 66
+Domanda: La posizione del centro velico per le unità navali a vela dipende dalla forma della vela, dalla reciproca influenza tra le vele bordate e dalla messa a punto dell'attrezzatura.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 67
+Domanda: La posizione del centro di deriva delle unità a vela dipende dalla forma delle vele.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 68
+Domanda: Si intende sopravento, il lato dell'unità ubicato al di sotto del punto di applicazione del vento apparente.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 69
+Domanda: Si intende sottovento, il lato dell'unità opposto rispetto a quello su cui batte il vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 70
+Domanda: La dizione di "mure a dritta/mure a sinistra" indica la parte prodiera dello scafo sulla quale si infrangono le onde.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 71
+Domanda: Per grasso della vela si intende la parte della vela più prossima alla tensione della drizza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 72
+Domanda: Il piano velico è l'organizzazione delle vele di un'imbarcazione come da progetto ed è essenzialmente caratterizzato dal numero di alberi e dal tipo di vele a disposizione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 73
+Domanda: Per portanza si intende il peso complessivo di tutte le attrezzature veliche imbarcate su un'unità a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 74
+Domanda: Lo svergolamento della vela dipende dalla velocità del vento reale che aumenta in funzione dell'altezza da cui spira rispetto alla superficie del mare.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 75
+Domanda: Per "straorza" si intende l'improvviso cambio di prua verso la direzione di provenienza del vento, causato da una raffica o da un'onda particolarmente intensa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 76
+Domanda: Per "strapoggia" si intende l'improvviso allontanarsi della prua dalla direzione del vento tale anche da causare una strambata.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 77
+Domanda: Per "raffica" si intende una particolare tipologia di venti, di rilevante intensità, che spirano prevalentemente da levante o da ponente.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 78
+Domanda: Per "scarroccio" si intende la traslazione laterale dell'unità a vela per effetto del vento esercitato sullo scafo durante la navigazione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 79
+Domanda: Un'unità a vela scuffia quando si ribalta, immergendo l'albero anche fino a 180° rispetto alla posizione iniziale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 80
+Domanda: Si intende per "smagrire" la vela il variare della superficie portante della stessa riducendone la sua concavità.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 81
+Domanda: Si dice "stringere il vento" il condurre l'unità a vela lascando quanto più possibile le vele, allontanando la prua dalla direzione dalla quale proviene il vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 82
+Domanda: Si dice "poggiare" il condurre l'unità a vela lascando quanto più possibile le vele, allontanando la prua dalla direzione dalla quale proviene il vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 83
+Domanda: La forza di propulsione risulta parallela all'asse longitudinale dell'unità navale a vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 84
+Domanda: La forza di scarroccio e la forza di propulsione danno origine alla forza risultante generata dal vento sulla superficie velica.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 85
+Domanda: Si intende per "corda" della vela la linea idealmente tracciata per unire le due estremità del profilo della vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 86
+Domanda: La concavità della vela assolve alla funzione di diminuire la resistenza all'avanzamento dell'unità.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 87
+Domanda: Lo spostamento del peso dell'equipaggio a bordo durante la navigazione a vela può servire a contrastare l'azione sbandante generata dallo scarroccio e dalla forza propulsiva.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 88
+Domanda: Per contrastare la tendenza poggera dell'unità a vela è utile spostare i pesi verso prua.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 89
+Domanda: Per contrastare la tendenza orziera dell'unità a vela è utile spostare i pesi verso l'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 90
+Domanda: È meglio evitare un'impostazione troppo poggera di un'unità perché tale impostazione limita notevolmente l'azione del timone.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 91
+Domanda: Un'unità in navigazione a vela con andatura di bolina, se eccessivamente sbandata sottovento, subisce un aumento della velocità e una miglior performance delle vele bordate.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 92
+Domanda: È meglio preferire un'impostazione orziera di un'unità a vela perché tale impostazione favorisce le prestazioni.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 93
+Domanda: L'inclinazione verso la prua dell'albero di un'unità a vela rende la stessa tendenzialmente poggera.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 94
+Domanda: L'inclinazione verso la poppa dell'albero di un'unità a vela rende la stessa tendenzialmente poggera.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 95
+Domanda: Lascare la drizza e la base della randa aumenta la concavità della vela (grasso) e le fa assumere una configurazione adatta all'andatura in fil di ruota.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 96
+Domanda: L'angolo di incidenza è quello formato tra la direzione del vento apparente e quella verso cui è orientata la vela, in pratica l'angolo con cui il profilo fende l'aria.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 97
+Domanda: La spinta della randa è principalmente orziera, quella del genoa o del fiocco tendenzialmente poggiera.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 98
+Domanda: Al crescere del vento si cazzano cunningham (o la drizza randa), il tesabase, la drizza genoa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 99
+Domanda: Al crescere del vento è utile spostare verso prua il carrello del genoa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 100
+Domanda: Negli armamenti frazionati, le sartie volanti servono a sostenere l'albero, controbilanciando lo sforzo trasmesso dalle vele allo strallo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 101
+Domanda: Negli armamenti frazionati con crocette acquartierate verso poppa e paterazzo, le sartie volanti possono dare supporto all'albero ma non sono strutturali.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 102
+Domanda: Si intende per unità attrezzata con armo frazionato quella in cui lo strallo non è "incappellato" in testa d'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 103
+Domanda: Si intende per unità attrezzata con armo frazionato quella il cui scafo è suddiviso in almeno tre compartimenti.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 104
+Domanda: Le crocette garantiscono un adeguato punto di forza e ritenuta delle scotte sul piano di coperta.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 105
+Domanda: Le crocette servono a tensionare le sartie che sorreggono l'albero lateralmente.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 106
+Domanda: La regolazione delle sartie si attua attraverso l'utilizzo del carrello della scotta.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 107
+Domanda: L'avvolgifiocco è una particolare galloccia dove viene avvolta la scotta sottovento del fiocco.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 108
+Domanda: La balumina è il lato più corto della randa, che si introduce all'interno della canaletta del boma.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 109
+Domanda: La ralinga della randa è il cavo cucito nel lato di inferitura per essere introdotto all'interno della canaletta dell'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 110
+Domanda: Per "base" della randa si intende il lato libero della vela dove sono ricavate le tasche per poter introdurre le stecche.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 111
+Domanda: Per "angolo di scotta" della randa si intende quello compreso tra la base e la balumina, dove è agganciato il tesabase.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 112
+Domanda: Per "angolo di penna" della randa si intende l'angolo compreso tra la base e la ralinga ove è agganciata la trozza del boma.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 113
+Domanda: Per "angolo di mura" della randa si intende l'angolo compreso tra la balumina e la ralinga, posto all'estremità superiore della vela, ove è agganciata la drizza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 114
+Domanda: Il fiocco consente all'unità a vela di navigare con angoli compresi tra i 40° e i 70° rispetto alla direzione da cui spira il vento.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 115
+Domanda: La randa rappresenta la vela principale di un'unità a vela, ubicata a poppavia dell'albero, e di forma triangolare.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 116
+Domanda: Il genoa o genova rappresenta una particolare tipologia di vela prodiera avente una superficie ridotta utilizzata in caso di condizioni meteo marine avverse.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 117
+Domanda: Il genoa o genova è la vela prodiera avente una superficie che non si sovrappone a quella della randa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 118
+Domanda: Generalmente il genoa (o genova) oltrepassa l'albero verso poppa fino a una lunghezza pari al 50% della distanza fra l'albero e il punto di mura.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 119
+Domanda: Il fiocco è la vela prodiera avente una superficie che non si sovrappone a quella della randa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 120
+Domanda: Lo spinnaker rappresenta la vela principale, utilizzata in particolar modo nelle andature di bolina al fine di dare maggiore potenza e superficie velica.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 121
+Domanda: Il gennaker è una vela asimmetrica adatta alle andature comprese tra il traverso e il lasco (60°-120° dal vento).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 122
+Domanda: Il code 0 è una vela asimmetrica adatta alle andature con poco vento comprese tra la bolina larga e il traverso.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 123
+Domanda: Il code 0 è una vela inferita.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 124
+Domanda: Lo sloop è l'armo caratterizzato dalla presenza di un solo albero e la possibilità di issare una sola vela di prua alla volta.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 125
+Domanda: Il cutter è l'armo caratterizzato dalla presenza di un solo albero, armato con due fiocchi contemporaneamente.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 126
+Domanda: Il ketch è quell'armo caratterizzato dalla presenza dell'albero di mezzana a proravia dell'asse del timone.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 127
+Domanda: Tra le manovre fisse vi sono drizze e scotte.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 128
+Domanda: Tra le manovre correnti vi sono stralli e sartie.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 129
+Domanda: Il paranco di scotta assolve la funzione di demoltiplicare lo sforzo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 130
+Domanda: Quello rappresentato in figura è un paranco con un rapporto 6:1
+Immagine: img/mims2022-vela/130.jpg
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 131
+Domanda: Quello rappresentato in figura è un paranco doppio con il rapporto più favorevole, il cosiddetto "fino" di 8:1.
+Immagine: img/mims2022-vela/131.jpg
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 132
+Domanda: Il cunningham assolve la funzione di porre in tensione la parte prodiera bassa della randa, mediante un paranco verticale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 133
+Domanda: Il tangone è il pennone sul quale è fissata la base della randa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 134
+Domanda: Il winch è un particolare meccanismo costituito da due bozzelli utilizzato per moltiplicare lo sforzo di trazione esercitato sulle cime.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 135
+Domanda: Le scotte devono essere avvolte intorno al tamburo del winch sempre in senso orario, ponendo particolare attenzione affinché per evitare la sovrapposizione dei "colli".
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 136
+Domanda: La ferramenta di bordo è costituita dall'insieme di strozzascotte, winch, arridatoi e gallocce.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 137
+Domanda: Il polipropilene è utilizzato solo per sagole galleggianti utilizzate per il salvataggio.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 138
+Domanda: I grilli assumono la funzione di ridurre o sforzo di trazione sui cavi.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 139
+Domanda: Il carrello di randa (o trasto) è il congegno sul quale vengono date volta e bloccate le scotte della randa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 140
+Domanda: La galloccia è il dispositivo con cui si fissano le draglie.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 141
+Domanda: La landa è il cavallotto o la piastra collocata in coperta utilizzata per fissare le sartie e gli stralli.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 142
+Domanda: Il golfare è il carrello del boma dove si innesta la randa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 143
+Domanda: La varea del tangone è l'anello di attacco del mantiglio.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 144
+Domanda: La trozza è lo snodo che unisce il boma all'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 145
+Domanda: La resistenza alla trazione rappresenta una qualità importante nelle fibre del tessuto di una vela, determinandone la stabilità trasversale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 146
+Domanda: Il dacron non è un materiale correntemente diffuso per la realizzazione di vele da crociera.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 147
+Domanda: L'esposizione molto prolungata delle vele ai raggi solari ne determina il decadimento delle sue caratteristiche meccaniche di resistenza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 148
+Domanda: Il set di vele standard di un catamarano è formato da randa, fiocco e gennaker.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 149
+Domanda: Il set di vele base di uno scafo armato a sloop è formato da randa e genoa (o genova).
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 150
+Domanda: La funzione delle stecche poste sulla randa è quella di garantire l'ottimale indicazione della direzione del vento sulla vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 151
+Domanda: I garrocci sono gli specifici moschettoni che consentono di fissare il lato prodiero del genoa e del fiocco allo strallo di prua.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 152
+Domanda: La funzione del paterazzo è di regolare il vang.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 153
+Domanda: Cazzando il paterazzo si determina un rilevante smagrimento della parte centrale della randa.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 154
+Domanda: La gassa d'amante è un nodo che tende a sciogliersi facilmente.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 155
+Domanda: La gassa d'amante si usa per accorciare una cima.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 156
+Domanda: È opportuno utilizzare il nodo piano per unire due cavi aventi diverso diametro.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 157
+Domanda: La funzione di un nodo savoia è impedire che l'estremità di un cavo si sfili da un passacavo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 158
+Domanda: Il nodo parlato è utile per fissare i parabordi alle draglie.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 159
+Domanda: Il nodo margherita si usa per accorciare una cima.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 160
+Domanda: Per lazy jack si intende una particolare drizza utilizzata per issare le vele in condizioni di emergenza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 161
+Domanda: Per lazy jack si intende il sistema di sagole che aiuta a raccogliere la randa in fase di ammainata.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 162
+Domanda: Il feeder è il dispositivo utilizzato al fine di facilitare l'introduzione dell'inferitura del fiocco o del genoa all'interno della canaletta dello strallo cavo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 163
+Domanda: Il tesabase è il dispositivo finalizzato a mantenere tesata la base del fiocco.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 164
+Domanda: Le manovre necessarie all'uso dello spinnaker sono scotta, spring, vang, borosa e meolo del tangone.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 165
+Domanda: Per braccio si in tende il cavo utilizzato per manovrare e, quindi, regolare la mura dello spinnaker.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 166
+Domanda: Il matafione è un fiocco di rispetto utilizzato in condizioni meteo marine avverse.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 167
+Domanda: Per impiombatura si intende l'intreccio dei trefoli delle estremità di cavi tessili o in acciaio, al fine di unirli tra di loro o per realizzare un anello fisso a cui agganciare le ferramenta o le manovre.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 168
+Domanda: Per borosa si intende la parte terminale superiore dello strallo cavo che lo collega all'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 169
+Domanda: Le sartie, sono i cavi generalmente in acciaio (ma anche in fibre tessili particolarmente tenaci), che sostengono l'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 170
+Domanda: Il tornichetto è un congegno utilizzato per unire due cime di diverso materiale.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 171
+Domanda: Il vang è un sistema di ritenuta del boma di tipo regolabile che assolve a due funzioni principali: regola la flessione longitudinale dell'albero e influenza la superficie portante della vela.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 172
+Domanda: All'interno dell'albero si possono far passare le manovre fisse come sartie e stralli.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 173
+Domanda: L'avvolgiranda è un'attrezzatura che permette di riporre la randa in un gavone una volta terminata la navigazione.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 174
+Domanda: La regolazione dell'albero viene effettuata con l'unità all'ormeggio agendo su ogni singola manovra corrente in stretta aderenza a quanto indicato dal costruttore.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 175
+Domanda: Le manovre correnti sono quelle che servono a manovrare le vele, come le scotte, drizze, vang, tesa base ecc.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 176
+Domanda: Un winch self-tailing è un verricello elettronico comandato dalla timoneria per il quale non è necessario l'uso della maniglia.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 177
+Domanda: Stralli e sartie sono manovre fisse.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 178
+Domanda: Girando la maniglia in senso orario il winch sostiene una migliore trazione e potenza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 179
+Domanda: Il motivo per cui il grillo della penna di randa è del tipo con perno di blocco è per consentire di sganciare la vela evitando che lo stesso cada in mare.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 180
+Domanda: La calza è una sorta di tubo di tela con il quale si raccoglie lo spinnaker o il gennaker prima di ammainarlo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 181
+Domanda: Con il fiocco autovirante è necessario cazzare la scotta in virata.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 182
+Domanda: Con il fiocco autovirante la scotta è generalmente rinviata a una puleggia sull'albero.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 183
+Domanda: Con il genoa avvolgibile ridotto oltre il 30% della superficie si ha una sensibile riduzione di efficienza del profilo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 184
+Domanda: L'avvolgifiocco e il moderno sistema che consente di ridurre la vela di prua senza ammainarla.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 185
+Domanda: Lo stopper è la manovra con cui si fissa il boma in posizione di riposo.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 2
+
+Numero: 186
+Domanda: Lo stopper è il sistema di bloccaggio che consente di strozzare una drizza.
+Immagine: 
+Risposta1: Vero
+Risposta2: Falso
+RispostaCorretta: 1
+
+Numero: 187
+Domanda: Come avvalersi del "bow truster " intendendo ormeggiarsi in banchina sul proprio lato dritto?
+Immagine: 
+Risposta1: in accosto a sinistra, in modo da favorire la traslazione dell'unità parallelamente alla banchina.
+Risposta2: in accosto a dritta, in modo da favorire la traslazione dell'unità parallelamente alla banchina.
+Risposta3: non va mai azionato durante la manovra d'ormeggio.
+RispostaCorretta: 2
+
+Numero: 188
+Domanda: Qual è lo strumento utilizzato per misurare la velocità delle unità?
+Immagine: 
+Risposta1: solcometro.
+Risposta2: anemometro.
+Risposta3: ecoscandaglio.
+RispostaCorretta: 1
+
+Numero: 189
+Domanda: Dovendo accostare di poppa, con un’unità munita di una sola elica destrorsa, quale manovra conviene:
+Immagine: img/mims2022-vela/189.jpg
+Risposta1: la manovra n. 1.
+Risposta2: la manovra n. 2.
+Risposta3: è indifferente.
+RispostaCorretta: 2
+
+Numero: 190
+Domanda: Dovendo accostare di poppa con un'unità munità di una sola elica sinistrorsa, quale manovra conviene rispetto a quelle proposte nelle figure:
+Immagine: img/mims2022-vela/190.jpg
+Risposta1: la manovra n. 1.
+Risposta2: la manovra n. 2.
+Risposta3: è indifferente.
+RispostaCorretta: 1
+
+Numero: 191
+Domanda: Dovendo raggiungere la banchina con la poppa a bordo di una unità dotata di una sola elica sinistrorsa, è più conveniente assumere quale posizione di partenza:
+Immagine: img/mims2022-vela/191.jpg
+Risposta1: la posizione 1.
+Risposta2: la posizione 2.
+Risposta3: la posizione 3.
+RispostaCorretta: 3
+
+Numero: 192
+Domanda: Dovendo raggiungere la banchina con la poppa a bordo di una unità dotata di una sola elica destrorsa, è più conveniente assumere quale posizione di partenza:
+Immagine: img/mims2022-vela/192.jpg
+Risposta1: la posizione 1.
+Risposta2: la posizione 2.
+Risposta3: la posizione 3.
+RispostaCorretta: 2
+
+Numero: 193
+Domanda: Per effettuare un corretto accosto di poppa alla banchina:
+Immagine: 
+Risposta1: si retrocede perpendicolarmente alla banchina presentando il mascone e correggendo solo col timone.
+Risposta2: con elica sinistrorsa, si retrocede perpendicolarmente alla banchina presentando il giardinetto di dritta alla banchina.
+Risposta3: con elica destrorsa, si retrocede perpendicolarmente alla banchina correggendo con il timone a sinistra.
+RispostaCorretta: 2
+
+Numero: 194
+Domanda: L'operazione di avvicinamento a una banchina o a un galleggiante è conosciuta sotto il nome di:
+Immagine: 
+Risposta1: tonneggio.
+Risposta2: attracco.
+Risposta3: bordeggio.
+RispostaCorretta: 2
+
+Numero: 195
+Domanda: Per accostarsi di fianco (all'inglese) a una banchina con un'unità dotata di un un'elica destrorsa:
+Immagine: 
+Risposta1: se aziono il motore in marcia indietro avvicino la prua alla banchina.
+Risposta2: l'unità si muove parallelamente alla banchina.
+Risposta3: con la banchina a sinistra, si dà marcia indietro con il mascone di sinistra alla banchina, avvicinando la poppa e arrestando l'abbrivio.
+RispostaCorretta: 3
+
+Numero: 196
+Domanda: Volendo ruotare sul posto da fermo, sfruttando contemporaneamente gli effetti evolutivi di elica e timone:
+Immagine: 
+Risposta1: in marcia avanti, non agisce la corrente respinta sul timone.
+Risposta2: con elica sinistrorsa, in marcia avanti mettiamo il timone a dritta, accostando decisamente a dritta.
+Risposta3: con elica destrorsa, in marcia indietro mettiamo il timone a dritta.
+RispostaCorretta: 2
+
+Numero: 197
+Domanda: Per assicurare l'unità ad un gavitello, ci si lega:
+Immagine: 
+Risposta1: alla cima sotto il gavitello.
+Risposta2: all'anello sulla sommità del gavitello.
+Risposta3: come mi conviene indifferentemente, in quanto sono valide entrambe le soluzioni di cui alle risposte suddette.
+RispostaCorretta: 1
+
+Numero: 198
+Domanda: Come si misura la lunghezza di un rimorchio?
+Immagine: 
+Risposta1: dalla prora del rimorchiatore alla prora dell'ultima unità rimorchiata.
+Risposta2: dalla poppa del rimorchiatore alla poppa dell'ultima unità rimorchiata.
+Risposta3: dalla prora del rimorchiatore alla poppa dell'ultima unità rimorchiata.
+RispostaCorretta: 2
+
+Numero: 199
+Domanda: In avvicinamento in una rada, si deve:
+Immagine: 
+Risposta1: tenere il motore con la marcia inserita al minimo dei giri
+Risposta2: procedere con cautela, se necessario inserendo e disinserendo la marcia per garantire una velocità contenuta
+Risposta3: non ci sono limiti di velocità
+RispostaCorretta: 2
+
+Numero: 200
+Domanda: Nella situazione di vento illustrata, qual è la manovra di approccio alla banchina più corretto?
+Immagine: img/mims2022-vela/200.jpg
+Risposta1: immagine 1
+Risposta2: immagine 2
+Risposta3: immagine 3
+RispostaCorretta: 1
+
+Numero: 201
+Domanda: Navigando all'interno di una rada, si deve tenere conto:
+Immagine: 
+Risposta1: che l'onda formata dalla propria imbarcazione può creare una situazione di disturbo o pericolo per le altre unità all'ancora.
+Risposta2: che è opportuno transitare sempre in prossimità della poppa delle unità all'ancora.
+Risposta3: che le manovre effettuate in velocità rendono più evidenti le proprie intenzioni.
+RispostaCorretta: 1
+
+Numero: 202
+Domanda: Relativamente ad un motore fuoribordo, bisogna sapere che:
+Immagine: 
+Risposta1: regolando con il "TRIM" il piede verso l’alto si determina un'elevazione della prora rispetto alla superficie del mare.
+Risposta2: i cilindri sono raffreddati ad aria.
+Risposta3: regolando con il "TRIM" il piede verso l’alto si determina un abbassamento della prora rispetto alla superficie del mare.
+RispostaCorretta: 1
+
+Numero: 203
+Domanda: Quando il TRIM è tutto basso si dice che l'assetto è:
+Immagine: 
+Risposta1: tutto in positivo e serve ad alzare la prua con mare formato in poppa.
+Risposta2: tutto in negativo e serve per dare maggiore spinta iniziale per raggiungere l'assetto di planata.
+Risposta3: neutrale.
+RispostaCorretta: 2
+
+Numero: 204
+Domanda: Ci troviamo in una condizione di rotta di collisione; di norma, l'unità con diritto di precedenza deve:
+Immagine: 
+Risposta1: accelerare con la propria unità in modo da scapolare quanto prima possibile l'altra unità che ha dato la precedenza.
+Risposta2: ridurre la velocità.
+Risposta3: mantenere rotta e velocità costante, accertandosi che l'altra unità dia la precedenza.
+RispostaCorretta: 3
+
+Numero: 205
+Domanda: Come bisogna presentarsi nella manovra per la presa di gavitello?
+Immagine: 
+Risposta1: sopravvento al gavitello.
+Risposta2: con vento al traverso e gavitello di prora.
+Risposta3: sottovento al gavitello.
+RispostaCorretta: 3
+
+Numero: 206
+Domanda: L’ancora galleggiante:
+Immagine: 
+Risposta1: serve a limitare l'intraversamento dell'unità.
+Risposta2: non serve utilizzarla in caso di cattivo tempo.
+Risposta3: serve a recuperare a bordo l'ancora incattivita.
+RispostaCorretta: 1
+
+Numero: 207
+Domanda: L’ancora galleggiante:
+Immagine: 
+Risposta1: è utilizzata in assenza di deriva e scarroccio.
+Risposta2: non è adatta all'utilizzo in prossimità della costa sottovento.
+Risposta3: non è adatta con profondità del mare troppo elevate.
+RispostaCorretta: 2
+
+Numero: 208
+Domanda: L’utilizzo dell’ancora galleggiante è vantaggioso in caso di:
+Immagine: 
+Risposta1: profondità troppo elevate e in assenza di deriva e scarroccio.
+Risposta2: profondità troppo elevate e in presenza di scarroccio.
+Risposta3: profondità troppo elevate e in presenza di deriva.
+RispostaCorretta: 2
+
+Numero: 209
+Domanda: Generalmente, la funzione del "TRIM" in un motore fuoribordo determina l'innalzamento della prua dell'unità per un angolo compreso tra la superficie del mare e il piano:
+Immagine: 
+Risposta1: laterale dell'unità stessa.
+Risposta2: trasversale dell'unita stessa.
+Risposta3: orizzontale dell'unità stessa.
+RispostaCorretta: 3
+
+Numero: 210
+Domanda: In generale il solcometro (comunemente detto anche log):
+Immagine: 
+Risposta1: fornisce il dato di velocità e di cammino percorso in un dato tempo.
+Risposta2: misura il solco lasciato dalla carena della nave nel suo moto in avanti.
+Risposta3: è un contachilometri percorsi che li trasforma in miglia.
+RispostaCorretta: 1
+
+Numero: 211
+Domanda: Lo scandaglio elettronico è denominato:
+Immagine: 
+Risposta1: solcometro.
+Risposta2: ecoscandaglio.
+Risposta3: elettro-scandaglio.
+RispostaCorretta: 2
+
+Numero: 212
+Domanda: Quando il dato della velocità fornito dal solcometro (comunemente detto anche log) non è attendibile:
+Immagine: 
+Risposta1: in caso di presenza di vento.
+Risposta2: in caso di presenza di corrente.
+Risposta3: non è vero, è sempre attendibile perché tiene conto di deriva e scarroccio.
+RispostaCorretta: 2
+
+Numero: 213
+Domanda: Il solcometro (comunemente detto anche log) misura la velocità:
+Immagine: 
+Risposta1: propria o propulsiva, cioè quella prodotta dalle eliche.
+Risposta2: rispetto alla superficie dell'acqua.
+Risposta3: effettiva, cioè quella rispetto al fondo del mare.
+RispostaCorretta: 1

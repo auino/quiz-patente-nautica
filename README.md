@@ -74,9 +74,9 @@ python3 generatequiz.py --exam --nodirectanswers
 ```
 python3 generatequiz.py --repeatexam 12345
 ```
-* Caricare un file differente da quello di default
+* Caricare un file differente da quello di default, ad esempio, quello di vela
 ```
-python3 generatequiz.py --file quiz/genova2015.txt
+python3 generatequiz.py --file quiz/mims2022-vela.txt
 ```
 
 Al termine dell'esecuzione, i numeri delle eventuali risposte errate verranno mostrati in output.
